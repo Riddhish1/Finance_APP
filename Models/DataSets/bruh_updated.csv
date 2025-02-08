@@ -1,0 +1,1128 @@
+Reason,Category,Transaction_ID,Date,Time
+Hotel booking,Food & Dining,006F143965,09-07-2024,03:17:44
+Internet bill,Daily & Household Expenses,006F215FD0,10-05-2024,10:35:46
+Grocery shopping,Daily & Household Expenses,0031A54619,29-11-2024,07:23:03
+Doctor consultation,Health & Wellness,002D516435,10-04-2024,12:23:31
+Water bill,Daily & Household Expenses,00763F8F36,29-07-2024,10:51:36
+Fuel refill,Other,00B36A41B7,19-11-2024,03:47:22
+Electronics purchase,Other,KLX0L1JZOC,14-01-2025,16:36:30
+Gift purchase,Other,EHDRVNKKM2,24-08-2024,03:55:39
+Fast food,Food & Dining,A1YRCEHR9Q,29-09-2024,03:57:20
+Club membership,Other,NWM1WJGIIX,16-12-2024,12:46:26
+Electricity bill,Daily & Household Expenses,YRRP0RBYTD,29-03-2024,16:19:36
+Cab fare,Transportation & Travel,XFX8OHXX8Q,23-11-2024,11:55:06
+Bus fare,Transportation & Travel,XAJF8FTN5U,13-10-2024,08:25:14
+Movie ticket,Entertainment & Leisure,RT37IKLAA2,28-09-2024,19:00:51
+Online shopping,Other,HU66ZN2E8R,18-05-2024,03:09:37
+Train ticket,Transportation & Travel,17E0IN3ODC,05-12-2024,10:16:47
+Car service,Transportation & Travel,9IQP0UE86L,02-11-2024,08:14:46
+Salon expense,Other,QS7GZTBY6V,20-07-2024,08:37:48
+Property rent,Daily & Household Expenses,D07QKITH9M,17-11-2024,08:41:56
+Restaurant bill,Daily & Household Expenses,AWM7JDW08A,02-12-2024,10:30:27
+Pet care,Health & Wellness,7AZ7YF3QZC,21-11-2024,03:39:48
+Insurance premium,Financial & Legal Transactions,4NLL1L1SN4,31-01-2025,15:01:12
+Pharmacy,Health & Wellness,G7BLRS32LA,31-03-2024,22:44:18
+Loan EMI,Financial & Legal Transactions,COX36IXH8X,16-08-2024,22:45:13
+Gym membership,Health & Wellness,24NDNB9XD4,23-11-2024,17:34:41
+Mobile recharge,Other,LDYW8PI68D,20-04-2024,16:50:15
+Flight ticket,Transportation & Travel,STBHDB51G4,25-03-2024,18:56:14
+Credit card bill,Financial & Legal Transactions,KBUIFYU9ZK,28-08-2024,23:37:50
+Tuition fees,Education & Learning,38A32RO936,04-05-2024,23:41:51
+Streaming subscription,Entertainment & Leisure,YWFUICA3FJ,11-09-2024,09:29:51
+Laundry Service,Daily & Household Expenses,X572DCYPBR,01-11-2024,17:15:16
+Home Cleaning Service,Daily & Household Expenses,GDEDZSVEBT,28-05-2024,10:44:39
+Furniture Purchase,Daily & Household Expenses,DWIG0K1RK7,21-12-2024,18:28:48
+Kitchen Supplies,Daily & Household Expenses,RFORHANNVD,07-12-2024,15:46:06
+Home Repairs,Daily & Household Expenses,9MX4GQ6D7W,19-10-2024,15:12:54
+Home Security Service,Daily & Household Expenses,XPFKVJD02G,06-05-2024,12:26:39
+Pest Control,Daily & Household Expenses,KOPIBJWEJZ,26-03-2024,23:42:57
+Gas Bill,Daily & Household Expenses,BQWDJZOT3I,25-04-2024,08:24:33
+Water Purifier Service,Daily & Household Expenses,XWU7MNBUUM,23-10-2024,10:35:12
+AC Repair,Daily & Household Expenses,RA6DMUZ0AL,28-01-2025,04:12:25
+Smart Home Devices,Daily & Household Expenses,81P7S57WJ5,22-03-2024,06:18:21
+Parking Fees,Transportation & Travel,Y3YA20OOAL,15-11-2024,03:38:10
+Toll Charges,Transportation & Travel,PCFAWJLSN7,21-06-2024,14:11:49
+Bicycle Rental,Transportation & Travel,764NFN7ZEP,16-01-2025,01:40:00
+Travel Insurance,Financial & Legal Transactions,YT4F1DFSGD,09-08-2024,12:50:51
+Car Lease Payment,Transportation & Travel,R8MW012Q5O,30-03-2024,02:41:54
+Vehicle Registration Fee,Transportation & Travel,EPIIKADCOP,16-04-2024,02:32:13
+Vehicle Insurance Renewal,Financial & Legal Transactions,3GKEF783RI,25-10-2024,23:58:23
+Ride-Sharing Payment,Transportation & Travel,QM14DHTEGV,31-08-2024,10:13:40
+Metro Card Recharge,Transportation & Travel,Q4QWZU7A9Q,14-05-2024,18:29:23
+Travel Accessories Purchase,Transportation & Travel,GTHJCXRPTK,25-11-2024,01:07:41
+Concert Ticket,Entertainment & Leisure,2P1R1LJ40K,01-06-2024,20:29:42
+Theme Park Entry,Entertainment & Leisure,S9HUS7DZUK,11-02-2024,10:58:52
+Sports Event Ticket,Entertainment & Leisure,V64JROR254,23-09-2024,23:43:45
+Museum Entry,Entertainment & Leisure,ZS5RR2PEPB,15-03-2024,03:38:02
+Gaming Subscription,Entertainment & Leisure,3TM46AJ3SG,06-02-2025,01:29:01
+Streaming Movie Rental,Daily & Household Expenses,50IKDNZJIO,26-01-2025,09:34:15
+Board Games Purchase,Entertainment & Leisure,8PH449FSMM,16-06-2024,19:36:29
+Music Concert Ticket,Entertainment & Leisure,5NTGMIWZJ8,30-10-2024,03:50:48
+E-Sports Tournament Entry,Entertainment & Leisure,LLJGG194D6,25-11-2024,08:01:30
+VR Gaming Experience,Entertainment & Leisure,S18EP14JJU,11-08-2024,13:32:25
+Co-working Space Rent,Daily & Household Expenses,NXST466YLY,19-07-2024,08:00:49
+Business Software Subscription,Transportation & Travel,8PKK3Z71OC,22-02-2024,08:48:33
+Office Supplies Purchase,Other,3OGIKR1PYL,17-10-2024,07:03:19
+Resume/CV Writing Service,Other,DJAMYIO79H,03-02-2025,06:02:09
+LinkedIn Premium Subscription,Other,XRC3LD8O1Z,21-03-2024,04:15:42
+Online Course Fee,Education & Learning,2U3TWC8A6T,30-08-2024,08:44:39
+School Supplies,Education & Learning,M8SBDKT6WL,27-03-2024,16:14:51
+Books & Stationery,Education & Learning,YZ8BDD8CJ9,28-07-2024,20:37:28
+Seminar/Workshop Fee,Education & Learning,N26Z4VUVLW,10-05-2024,08:21:58
+Library Membership,Education & Learning,6RFCX0UE1W,06-03-2024,02:05:45
+Skill Development Program,Education & Learning,10G3BMW2LG,06-03-2024,20:59:04
+Study Abroad Consultation Fee,Education & Learning,JRW7451EFH,22-06-2024,20:43:12
+Certification Exam Fee,Education & Learning,EBPKNQWS8S,08-05-2024,04:34:45
+E-Library Subscription,Education & Learning,HW78WOREUS,27-02-2024,10:01:57
+Tutoring Service,Education & Learning,33TRU7P7NB,26-06-2024,12:40:51
+Income Tax Payment,Financial & Legal Transactions,N1FJFXCIS7,18-03-2024,02:28:31
+Legal Consultation,Financial & Legal Transactions,MQG3184D3F,04-11-2024,22:51:52
+Investment Deposit,Financial & Legal Transactions,83NKEPU0BS,21-05-2024,10:46:44
+Charity Donation,Financial & Legal Transactions,99AW06XX17,08-02-2025,15:32:24
+Retirement Savings Contribution,Financial & Legal Transactions,NJWOSPMO0Q,11-07-2024,14:49:11
+Stock Trading Fee,Financial & Legal Transactions,ZBJG60BBDY,21-07-2024,07:24:54
+Cryptocurrency Purchase,Financial & Legal Transactions,VLN41IMS42,12-01-2025,13:38:40
+Crowdfunding Contribution,Financial & Legal Transactions,O99RZNDNI9,12-11-2024,22:06:02
+Mutual Fund SIP,Financial & Legal Transactions,KBTMPC5EZ2,01-09-2024,16:14:45
+Plumbing Service,Daily & Household Expenses,P0W5ZNRRS8,24-06-2024,17:39:54
+Electrician Service,Daily & Household Expenses,940J4ND2S2,26-10-2024,04:58:40
+Laptop Repair,Other,G7HF11EEWS,29-11-2024,12:17:55
+Smartphone Screen Replacement,Other,M2R4NCCWKJ,01-06-2024,23:59:00
+Watch Battery Replacement,Other,GJT6QSV7V5,09-08-2024,06:59:14
+Health Checkup,Health & Wellness,V5GH4AJ8GH,04-05-2024,11:08:05
+Dental Treatment,Health & Wellness,5J7XGUXT0J,04-01-2025,10:22:27
+Physiotherapy,Health & Wellness,R1Z8SJ4D6P,25-06-2024,11:14:47
+Mental Health Counseling,Health & Wellness,E6EXW0XYYI,08-02-2025,09:43:03
+Optical Purchase (Glasses/Lenses),Health & Wellness,YJWDX7T64K,31-10-2024,15:55:58
+Spa & Wellness Therapy,Health & Wellness,0I0RD8YU3Z,17-03-2024,12:19:35
+Tattoo & Piercing Service,Other,PYSORYVVYS,20-07-2024,07:03:55
+Skincare & Beauty Products,Transportation & Travel,3K7ZTXU0SS,05-08-2024,20:28:04
+Perfume Purchase,Other,11PZFVVVTN,26-05-2024,23:53:32
+Luxury Clothing Purchase,Other,VIY2OAXCDA,18-11-2024,13:05:41
+Veterinary Checkup,Health & Wellness,BI768F19VE,14-05-2024,08:29:51
+Pet Grooming,Other,LA2NZWKD4J,07-06-2024,11:52:24
+Pet Training Class,Transportation & Travel,GUG9D5DO1P,15-12-2024,15:45:16
+Pet Insurance,Financial & Legal Transactions,I6AJV569OB,10-04-2024,22:15:45
+Adoption Fee,Other,3ELK8PJGM6,21-12-2024,22:14:26
+Babysitting Service,Other,4ZJ12EQ2DY,07-12-2024,00:12:01
+Courier & Delivery Charges,Other,NH1JNN7U3N,18-05-2024,02:56:55
+Photography Session,Other,Y8NCXDSWOO,08-02-2025,15:07:57
+Wedding Expense,Other,S47LCWP870,29-12-2024,14:13:55
+Festival Celebration Expense,Entertainment & Leisure,R4GQ17HDJ2,06-04-2024,06:42:41
+Lost Item Replacement,Other,CASIW6XUK5,09-02-2024,12:16:17
+Passport Renewal Fee,Other,9A2N74N7F1,31-03-2024,17:35:16
+Government Service Charge,Other,T8AKS9V07M,13-01-2025,19:20:58
+Event Hosting & Catering,Other,85JZUSXQ51,18-08-2024,15:03:07
+Charity & Fundraising Contribution,Financial & Legal Transactions,9ZG3VOFA32,30-12-2024,07:14:27
+House Renovation,Daily & Household Expenses,AUWIEPE5F4,07-06-2024,01:21:42
+Interior Decoration,Daily & Household Expenses,9C0EVOQ9NP,20-02-2024,08:45:54
+Home Insurance,Financial & Legal Transactions,M2V4IAE3SZ,23-03-2024,12:09:25
+Lawn/Garden Maintenance,Daily & Household Expenses,IMV97UZUAT,27-04-2024,13:46:07
+Smart Home Automation,Daily & Household Expenses,1MLRENQD61,12-07-2024,19:08:55
+Roadside Assistance Service,Transportation & Travel,3FQ8YV8V9T,20-11-2024,08:20:20
+Car Wash & Detailing,Transportation & Travel,UMX1OZB9J8,30-05-2024,21:14:43
+Bike Maintenance,Transportation & Travel,XGI7M6VCAR,05-07-2024,01:38:01
+Car Rental Fee,Daily & Household Expenses,J77N7Z4WTK,04-09-2024,15:43:42
+Highway Pass,Transportation & Travel,O1U7P23P43,16-04-2024,11:09:22
+Amusement Park Pass,Other,XIDMR6UE4G,21-10-2024,13:08:57
+Escape Room Ticket,Other,4651ZAJ25G,11-04-2024,06:40:40
+Bowling Alley Fee,Other,WRZ8Z8U1P3,02-09-2024,11:42:08
+Karaoke Night,Other,NNV97TA6OJ,30-12-2024,01:40:50
+Live Theater Show,Other,ROHYE6UM60,02-05-2024,01:34:24
+Domain & Hosting Subscription,Other,VWUM691N4Q,18-09-2024,05:51:45
+Cloud Storage Service,Other,Y647WLZ26E,15-04-2024,20:29:02
+Graphic Design Services,Other,9NXEDA3RZG,03-09-2024,09:25:31
+Freelancer Payment,Other,ZPCHF9DYBM,06-12-2024,00:01:38
+Business Consultant Fee,Transportation & Travel,RP05E8E0MH,11-05-2024,17:09:03
+College Application Fee,Education & Learning,L23H7FMSL0,26-04-2024,03:47:06
+Research Paper Access Fee,Education & Learning,6XZS5L2JH1,12-03-2024,22:57:32
+Exam Coaching Classes,Education & Learning,VXRJ9LTVXE,10-08-2024,10:13:09
+Foreign Language Course,Education & Learning,R3AE6PY42C,01-08-2024,22:38:00
+University Alumni Donation,Education & Learning,64R9QE7FYX,31-08-2024,14:11:26
+Real Estate Investment,Financial & Legal Transactions,3YWUZYRXTW,21-06-2024,08:48:59
+Personal Loan Repayment,Financial & Legal Transactions,GG5OXS0SZB,12-01-2025,21:49:25
+Gold Investment,Financial & Legal Transactions,NCPZ5J3CG3,24-09-2024,10:42:17
+Fixed Deposit Contribution,Financial & Legal Transactions,RYL5CY3IYV,26-01-2025,21:49:51
+Pension Fund Contribution,Financial & Legal Transactions,FCK1QEFXCN,03-09-2024,13:20:32
+Roof Repair,Daily & Household Expenses,BT2GDQHHE5,29-09-2024,22:27:26
+Plumbing Emergency,Daily & Household Expenses,T3IIWMRPVM,04-10-2024,01:14:23
+Broken Window Replacement,Daily & Household Expenses,TX3HNRLBEA,12-07-2024,03:08:42
+Flooring Repair,Daily & Household Expenses,1BH4FTJJDK,21-08-2024,03:16:56
+HVAC System Maintenance,Daily & Household Expenses,R1LLKXRGJO,14-04-2024,20:48:31
+Personal Trainer Fee,Health & Wellness,K8H7NSGIDB,11-06-2024,20:24:32
+Dietician/Nutritionist Consultation,Health & Wellness,6RAAWBS4DL,24-01-2025,02:07:18
+Medical Insurance Premium,Other,9HB45AIU04,04-11-2024,02:20:31
+"Alternative Therapy (e.g., Acupuncture)",Health & Wellness,WMTKCKYXP4,16-04-2024,01:33:40
+Hearing Aid Purchase,Health & Wellness,2J08LPJDZU,02-03-2024,05:31:24
+Designer Clothing Purchase,Other,6WTUGN4ZCI,14-12-2024,12:42:57
+Luxury Watch Purchase,Other,ZY46YCC0QW,11-01-2025,02:01:12
+Hairstyling & Coloring,Other,U24K9J36AA,15-05-2024,09:24:15
+Nail Salon Visit,Other,F1NIL6L7ER,20-04-2024,08:31:39
+Custom Tailoring,Other,DOKZ9HV581,21-05-2024,09:46:42
+Pet Vaccination,Health & Wellness,JHWIS1Y73S,17-04-2024,02:59:48
+Pet Boarding Service,Other,05NNYDYTNF,25-10-2024,14:50:22
+Pet Adoption Donation,Other,R3IN8HX4UK,18-07-2024,21:34:04
+Fish Tank Maintenance,Other,TFH968G3OG,20-05-2024,10:51:38
+Bird Cage Accessories,Other,IGAPUNMC01,12-03-2024,09:00:47
+Lost & Found Claim Fee,Other,AP1QRQ7RCP,06-06-2024,22:21:43
+Community Service Contribution,Other,P2MCWMYN68,16-03-2024,20:03:36
+Social Club Membership,Other,YAVRIF56KD,13-12-2024,11:22:24
+VIP Lounge Access,Other,ULP2FQ08JH,20-03-2024,08:56:31
+Wedding Gift Purchase,Other,RK599KPX8W,09-08-2024,00:33:46
+House Painting,Daily & Household Expenses,D2GNK3WSES,15-08-2024,11:41:05
+Pest Extermination Service,Daily & Household Expenses,299668DZYI,20-12-2024,18:59:30
+Home Moving & Relocation Expense,Daily & Household Expenses,ZW5AIP542T,07-02-2025,22:28:32
+Emergency Locksmith Service,Daily & Household Expenses,XO0VCUJEFN,02-08-2024,15:25:45
+Septic Tank Cleaning,Daily & Household Expenses,9VRD92U1L9,22-06-2024,20:22:17
+Home Appliance Repair,Daily & Household Expenses,21KLODRJIO,05-12-2024,10:54:37
+Electric Vehicle Charging,Other,M8VN4IOKSX,01-12-2024,01:21:38
+Long-Term Parking Rental,Daily & Household Expenses,MV86OI4C3V,30-11-2024,19:07:47
+RV/Campervan Rental,Daily & Household Expenses,5109QEQXG8,10-03-2024,17:19:36
+Travel SIM Card Purchase,Transportation & Travel,NWA4CRS5BL,07-12-2024,11:24:35
+Airport Lounge Access,Other,C4DUFONDYV,20-07-2024,14:13:00
+Cruise Ticket,Other,N7IY371I25,05-05-2024,18:31:02
+Arcade Game Tokens,Entertainment & Leisure,SGEGQ0UAP5,15-04-2024,13:56:55
+Ski Resort Pass,Other,JUON4L874T,21-10-2024,17:01:37
+Escape Room Game,Entertainment & Leisure,DAK1FORFOO,02-01-2025,22:08:14
+Dance Class Fees,Education & Learning,A1SC99CD7C,24-12-2024,12:39:55
+Photography Workshop,Entertainment & Leisure,ELJQ92S8K9,07-04-2024,05:08:59
+Guided City Tour,Entertainment & Leisure,1KVNCHKHD6,25-09-2024,05:19:04
+Resume/CV Review Service,Other,MUYL80IOG0,17-01-2025,04:40:57
+Public Speaking Training,Transportation & Travel,QZ97K3J0GQ,29-03-2024,16:22:52
+Online Freelance Marketplace Fee,Other,DY71IP5VTS,18-07-2024,01:51:00
+Software Development Services,Other,YJRNPZLRTS,08-12-2024,07:41:30
+Business Conference Ticket,Transportation & Travel,V3ZEKP9XUQ,26-06-2024,08:30:46
+Coding Bootcamp Tuition,Education & Learning,9C5M4SQLCW,28-02-2024,22:54:16
+Music Lessons,Education & Learning,TAD686TUKO,20-06-2024,05:32:59
+Art Classes,Education & Learning,S19SSWPUHY,05-09-2024,14:37:04
+Scientific Journal Subscription,Education & Learning,UBQIMZS8X1,16-12-2024,14:21:40
+Education Loan Repayment,Financial & Legal Transactions,XKFE340O9Q,28-03-2024,08:34:57
+NFT Purchase,Financial & Legal Transactions,7ZSO06H2ID,30-12-2024,11:15:56
+Crypto Staking Fee,Financial & Legal Transactions,KL9RJ34Q99,12-03-2024,00:19:10
+Hedge Fund Investment,Financial & Legal Transactions,YYLDKEQI8S,15-04-2024,19:27:42
+ATM Withdrawal Fee,Financial & Legal Transactions,4DQYD1I1L2,22-07-2024,07:57:32
+Foreign Currency Exchange Fee,Financial & Legal Transactions,IXW2AGZ97A,20-12-2024,09:57:16
+Chimney Cleaning,Daily & Household Expenses,NE2O0ITE6U,16-12-2024,07:46:43
+Roof Waterproofing,Daily & Household Expenses,IDN4SEASFQ,14-04-2024,01:58:47
+Fence Repair,Daily & Household Expenses,AWZZJWJF2L,05-11-2024,05:08:02
+Emergency Plumbing Service,Daily & Household Expenses,0DQC74EOKP,29-09-2024,02:10:22
+Structural Inspection,Daily & Household Expenses,Z7DBSTTDZM,11-05-2024,20:04:15
+Orthopedic Consultation,Health & Wellness,BUTZDR1B8B,25-04-2024,13:46:19
+Speech Therapy,Health & Wellness,2YIJSASDSK,08-02-2025,11:46:27
+Maternity & Baby Care,Health & Wellness,M6QVPNOJ1U,30-03-2024,16:18:19
+Sports Physiotherapy,Health & Wellness,GCQRCX15HG,03-08-2024,14:38:51
+Eye Laser Surgery,Health & Wellness,0GZWR6Q6DM,02-08-2024,02:56:03
+Personalized Jewelry,Other,CP7DF5EOZJ,13-12-2024,11:51:58
+Luxury Handbag Purchase,Other,YQVAFWWDLF,27-04-2024,09:18:45
+Tailored Suit Purchase,Other,BK2I7D1K48,25-06-2024,00:34:48
+Beard Grooming Service,Other,TH9AAR06R4,11-11-2024,05:52:05
+Cosmetic Surgery,Health & Wellness,KSTWHRTEF4,28-09-2024,18:40:47
+Pet Travel Fee,Transportation & Travel,63NU6HIYE4,03-01-2025,22:09:08
+Pet Breeding Service,Other,8B3UCF8C5D,12-10-2024,19:55:37
+Aquarium Maintenance,Other,24DKBJJDXZ,10-09-2024,22:48:22
+Pet Toy Purchase,Other,RQY0HRB5SG,27-04-2024,21:12:32
+Pet DNA Testing,Health & Wellness,ZTXXSLQL3C,01-10-2024,03:44:02
+Lost Passport Replacement,Other,YUKHQ6HHHI,02-05-2024,11:10:13
+Political Campaign Donation,Other,37IG9P8FRD,04-11-2024,00:53:37
+Auction House Purchase,Other,NAKNB01NCC,02-12-2024,03:18:05
+Online Gambling Deposit,Other,BLH8E876QX,12-06-2024,08:49:57
+Lottery Ticket Purchase,Other,7RMG15UQ7G,22-03-2024,09:14:50
+Smart Thermostat Purchase,Other,SQZK20LN24,13-12-2024,19:12:37
+Security Camera Installation,Daily & Household Expenses,9L1L3ID2ZC,03-07-2024,23:54:48
+House Deep Cleaning Service,Daily & Household Expenses,UCV6HKSDQK,10-04-2024,16:12:10
+Window Cleaning Service,Daily & Household Expenses,VKEXTLTMTI,01-01-2025,14:25:07
+Home Renovation Consultation,Daily & Household Expenses,SWN6TL8LPH,10-10-2024,06:04:16
+Chauffeur Service,Other,2JK5QCTO0O,28-11-2024,12:47:14
+Speeding Ticket Payment,Transportation & Travel,0FQ5TLSOZU,02-03-2024,15:53:50
+Carpool Subscription,Transportation & Travel,EY919V1BTU,25-02-2024,18:15:57
+International Driving Permit,Transportation & Travel,JMFSFQQUBB,03-10-2024,02:31:33
+Bike Rental Membership,Transportation & Travel,WT6QQV58KR,13-06-2024,22:52:48
+Escape Room Membership,Other,Z81C4XLAHG,26-01-2025,09:18:56
+Yacht Rental,Transportation & Travel,N0JW7LYU5X,25-08-2024,15:24:05
+Horse Riding Lesson,Other,0XSYM23U4G,24-07-2024,04:35:25
+Drone Racing Entry Fee,Other,IL60PE4SDP,17-01-2025,19:36:26
+Music Band Equipment Purchase,Other,LPEFBHHK33,06-03-2024,01:17:43
+Career Coaching,Transportation & Travel,LT28O0IXB0,19-04-2024,03:48:47
+Patent Filing Fee,Other,9VPYU1EE55,28-11-2024,14:50:46
+Trademark Registration,Other,YEXWTJRW3J,26-10-2024,11:18:15
+Office Party Catering,Other,IH2F4G7FBF,20-11-2024,13:49:02
+Virtual Assistant Subscription,Other,59TV65CLOU,02-07-2024,23:34:47
+3D Printing Course,Education & Learning,56VRJA46H8,08-04-2024,14:07:17
+Aviation Training,Education & Learning,UGGRU41S40,27-10-2024,15:36:06
+Robotics Workshop,Education & Learning,IVUY5NYNY7,24-07-2024,07:49:56
+SAT/GMAT/GRE Test Registration,Education & Learning,C00U6BPVO9,18-01-2025,01:12:24
+Online Tutoring Platform Subscription,Education & Learning,F5L8UV5PC5,15-09-2024,03:53:05
+Real Estate Crowdfunding Contribution,Other,3TCIRKBWUU,18-09-2024,19:14:45
+Private Equity Investment,Financial & Legal Transactions,FU9RCP9R4T,15-05-2024,15:50:12
+Cryptocurrency Mining Equipment,Financial & Legal Transactions,RLWS8NBQMB,06-11-2024,14:56:30
+DeFi Lending Fee,Financial & Legal Transactions,T6GX9HROLR,04-01-2025,17:51:30
+Credit Score Monitoring Subscription,Other,IE73GYK9I3,05-08-2024,00:50:56
+Underground Pipe Repair,Daily & Household Expenses,BWMYQSUPZV,17-07-2024,22:33:09
+Solar Panel Maintenance,Daily & Household Expenses,QTKADM5CXB,02-08-2024,23:18:16
+Driveway Paving,Other,UPBSF77K5V,14-09-2024,23:28:29
+Gutter Cleaning,Daily & Household Expenses,LNLPX1X1KV,22-05-2024,17:12:32
+Fireplace Inspection,Other,WOGUMGUFYQ,17-01-2025,06:51:44
+Genetic Testing Kit,Other,88XK8MEEEH,25-08-2024,11:13:19
+Medical Tourism Expenses,Health & Wellness,PK997X9UHN,15-03-2024,11:22:11
+Cancer Screening,Health & Wellness,ILT7SRAS5U,06-05-2024,17:46:56
+Homeopathy Treatment,Health & Wellness,EBD05LWCIY,11-08-2024,12:38:54
+Fertility Treatment,Health & Wellness,746F2C7BQC,22-05-2024,08:52:57
+Virtual Wardrobe Consultant,Other,J19DVOSTRN,20-04-2024,10:55:22
+Custom Fragrance Creation,Other,GQ17C6D5DL,02-02-2025,15:43:32
+Teeth Whitening Procedure,Health & Wellness,NBCQG84FMC,02-04-2024,03:25:02
+Anti-Aging Treatment,Health & Wellness,V6CV9BXP22,24-10-2024,08:02:55
+Exclusive Fashion Show Ticket,Other,FHIJIHK7WN,21-12-2024,15:27:49
+Pet Obedience School,Education & Learning,AH0IPPJB0F,16-07-2024,21:38:03
+Exotic Pet Purchase,Other,BMD1L4XQX5,01-03-2024,20:40:04
+Fish Pond Setup,Other,CJA2KPZXYF,17-07-2024,05:25:29
+Pet Nutritionist Consultation,Health & Wellness,HQLL77QCLO,23-05-2024,01:59:49
+Pet Funeral Service,Other,XDABT6DNLI,14-11-2024,16:49:38
+VIP Membership for Online Stores,Other,8FOAX93LEB,14-12-2024,11:06:45
+"Digital Asset Purchase (eBooks, NFTs, Virtual Land)",Education & Learning,099OD6BCJH,01-02-2025,02:51:53
+Antique Collection Purchase,Other,Z7LYA8PMVF,07-03-2024,12:19:46
+Space Tourism Deposit,Other,QP36AO0H1C,17-09-2024,22:26:43
+Private Island Rental,Daily & Household Expenses,WZR8GRD69S,02-06-2024,04:21:19
+Teeth Whitening Proce dure,Health & Wellness,FVP53PHY30,13-05-2024,19:09:16
+Solar Energy Installation,Daily & Household Expenses,05MFC6SDN1,04-12-2024,15:12:50
+Home Theater System Setup,Daily & Household Expenses,RD8S5FRAH8,25-10-2024,01:59:57
+Fireplace Chimney Repair,Daily & Household Expenses,HE4DUCDCZ3,09-06-2024,00:15:36
+Custom Wallpaper Installation,Daily & Household Expenses,G3NQHCYUG7,23-01-2025,02:53:20
+Outdoor Landscape Lighting,Daily & Household Expenses,R6Z54N9V28,12-10-2024,22:27:39
+Luxury Car Rental,Daily & Household Expenses,794UQA6BW7,29-03-2024,03:51:27
+Private Jet Charter,Other,FAP73ZWPDH,13-01-2025,13:09:05
+Hot Air Balloon Ride,Transportation & Travel,DTVEWWJH8P,04-08-2024,01:51:24
+Bullet Train Ticket,Transportation & Travel,R96R30XLC6,22-09-2024,20:01:40
+Vehicle Carbon Offset Payment,Transportation & Travel,KQJK7CVI32,03-07-2024,23:00:50
+Celebrity Meet & Greet Event,Entertainment & Leisure,3FLKLB9ZOE,25-05-2024,09:10:06
+Private Movie Screening,Entertainment & Leisure,QGJMSC87G1,18-12-2024,00:03:21
+Esports Tournament Entry Fee,Entertainment & Leisure,629DKC6BNU,02-02-2025,18:02:20
+Virtual Reality Arcade,Entertainment & Leisure,QATRIDN71P,11-06-2024,22:57:04
+Historical Reenactment Event,Entertainment & Leisure,QFO2H1OHHR,02-07-2024,08:04:28
+AI-powered Resume Builder Subscription,Other,XSBPSO9S9S,19-06-2024,22:48:16
+Co-working Space Membership,Other,XGD9PFBC55,14-02-2024,03:08:06
+Ghostwriting Services,Other,ZMBT2DPW4J,25-09-2024,02:53:41
+Business Name Registration Fee,Transportation & Travel,W1D2UTE6NO,12-01-2025,06:31:56
+Corporate Team-Building Retreat,Other,R8KZ88Q7MA,29-01-2025,22:47:43
+Private Tutoring Session,Education & Learning,MR3KCPWUYJ,13-12-2024,05:59:49
+Speed Reading Course,Education & Learning,NDNZW05TL5,28-10-2024,17:32:09
+Artificial Intelligence Bootcamp,Financial & Legal Transactions,CYCQ1SBJKU,23-07-2024,09:53:15
+Academic Journal Subscription,Financial & Legal Transactions,85RT4MKW5E,10-04-2024,21:32:38
+Stock Market Trading Fee,Financial & Legal Transactions,5OXH2F05SD,04-04-2024,16:21:40
+Blockchain Smart Contract Audit,Financial & Legal Transactions,NHV4JPOZLV,03-01-2025,10:03:30
+Hedge Fund Subscription,Financial & Legal Transactions,I2E2OE5CAZ,15-07-2024,20:27:57
+Offshore Banking Account Fee,Financial & Legal Transactions,M2OPKLA1CA,02-06-2024,00:26:08
+Gold Vault Storage Fee,Financial & Legal Transactions,759GAO2Q0X,16-02-2024,18:56:23
+3D-Printed House Repair,Other,019X3MOUEB,08-03-2024,08:02:07
+Water Well Drilling,Other,SRD4WUK9H5,30-01-2025,06:03:43
+Smart Home Device Troubleshooting,Other,HRRXUUGVOO,25-10-2024,13:51:35
+Underground Cable Fixing,Transportation & Travel,OK4KZITUI8,30-10-2024,14:27:38
+Emergency Generator Installation,Other,N6A1B68AVC,09-08-2024,04:00:42
+Cryotherapy Session,Health & Wellness,SI4BIACK3P,27-11-2024,18:58:01
+IV Vitamin Therapy,Health & Wellness,SPQVVP0357,05-07-2024,02:48:01
+Sleep Disorder Consultation,Health & Wellness,KDQOUI20A0,10-11-2024,02:57:28
+DNA-Based Diet Plan,Health & Wellness,UTF45XZLBU,14-09-2024,01:21:54
+Organ Donation Processing Fee,Health & Wellness,UE23K0XSKM,29-04-2024,20:31:01
+Spa & Wellness Retreat,Health & Wellness,T0Y0TI6WEH,20-11-2024,11:15:11
+Bespoke Tailoring Experience,Other,OY9MZV3NCU,22-04-2024,17:01:39
+Fashion Stylist Consultation,Other,H29NRVLCEJ,09-04-2024,19:19:50
+Hair Transplant Procedure,Health & Wellness,K15G8XBB6K,19-09-2024,08:59:39
+Custom Handbag Crafting,Other,NJXMM9B9TZ,24-02-2024,00:07:30
+Pet Yoga Class,Health & Wellness,KRN6T9HUGI,09-05-2024,11:59:47
+Pet Chauffeur Service,Other,M792S4O1VA,13-06-2024,06:16:46
+Animal Cloning Research Donation,Health & Wellness,R65KFAJLHJ,20-06-2024,23:16:04
+Pet DNA Ancestry Test,Health & Wellness,KU3BY5BT3B,22-09-2024,11:22:20
+Exotic Animal License Fee,Other,J9DU2B4LVK,03-03-2024,08:55:34
+Private Detective Hiring,Other,JPJDEYBPWF,15-05-2024,18:29:08
+Luxury Auction House Membership,Other,J2HC4F8QAG,09-02-2024,09:48:11
+SpaceX Ticket Deposit,Other,GING4M7HWL,16-06-2024,15:14:16
+Smart City Infrastructure Contribution,Other,31JAQWD3WQ,19-02-2024,17:55:12
+Futuristic Tech Prototype Purchase,Other,TV7TFKZPJD,22-11-2024,02:37:44
+House Cleaning Service,Daily & Household Expenses,HJ5YK4ZFBF,25-07-2024,17:14:53
+Lawn Care Service,Daily & Household Expenses,PDKB2DWPRZ,11-11-2024,15:28:43
+Home Security System Subscription,Daily & Household Expenses,P4HI71F75Y,09-07-2024,04:36:09
+Homeowners Association (HOA) Fees,Daily & Household Expenses,YQ0SM3HJW2,12-11-2024,09:18:36
+Property Taxes,Financial & Legal Transactions,WFN5XAPIVG,28-05-2024,21:32:55
+Homeowners Insurance,Financial & Legal Transactions,7ER8C8USJJ,05-06-2024,17:15:54
+Mortgage Payment,Financial & Legal Transactions,T1FSNGM30K,08-04-2024,05:41:38
+Home Renovation,Financial & Legal Transactions,AP2YXYWXF1,17-05-2024,13:58:31
+Swimming Pool Maintenance,Daily & Household Expenses,E7I7A97U99,20-02-2024,10:42:49
+HVAC Repair,Daily & Household Expenses,Y8O00TLNI2,18-11-2024,19:14:00
+Septic Tank Pumping,Daily & Household Expenses,OPKKXOJ0XC,29-07-2024,20:55:15
+Appliance Purchase,Other,PDD426HZ5C,26-05-2024,20:01:51
+Appliance Repair,Daily & Household Expenses,54VYD8UALP,15-05-2024,04:53:34
+Home Alarm Installation,Daily & Household Expenses,84IKME7VRN,04-11-2024,18:29:20
+Water Purification System,Daily & Household Expenses,P34SVSKS5N,24-04-2024,01:30:16
+Waste Management Fees,Other,SRLEQF2KAD,31-08-2024,16:30:34
+Home Moving Expenses,Other,H46MO4CKO8,08-08-2024,13:45:06
+Fire Extinguisher Refill,Other,JHLH95FC0W,21-06-2024,16:16:52
+Window Cleaning,Daily & Household Expenses,BYHDUX3NRK,23-01-2025,06:07:19
+Locksmith Services,Daily & Household Expenses,3OZDQDOPE2,24-09-2024,18:04:13
+Fuel Purchase,Transportation & Travel,0F9I4DFVEP,12-04-2024,18:02:06
+Car Rental,Transportation & Travel,ILF2IHGDQP,23-07-2024,06:01:55
+Taxi Fare,Transportation & Travel,MYMZBVI3AH,14-02-2024,04:48:15
+Public Transport Pass,Transportation & Travel,3CWIO0DMVA,30-01-2025,05:19:49
+Ride-Sharing (Uber/Lyft),Transportation & Travel,J5SEKM0S9Y,01-05-2024,06:17:25
+Flight Tickets,Transportation & Travel,MSBXA8DM9A,21-09-2024,20:25:07
+Toll Fees,Transportation & Travel,4AHU3Y8P70,10-02-2024,00:40:12
+Vehicle Loan EMI,Financial & Legal Transactions,028L67GC5C,26-03-2024,21:18:19
+Roadside Assistance,Transportation & Travel,JU0MT6SQ3W,11-03-2024,07:08:57
+Bus Fare,Transportation & Travel,57XJKTRKN5,12-03-2024,23:51:06
+Train Ticket,Transportation & Travel,W91RU6VN8T,18-02-2024,05:31:35
+Car Maintenance,Transportation & Travel,5S481JZ2R4,22-02-2024,08:34:11
+Auto Detailing,Transportation & Travel,U23PMOED83,04-07-2024,05:30:58
+Vehicle Registration Fees,Transportation & Travel,QH8SDJOU4J,07-12-2024,22:11:09
+Emission Test Fees,Transportation & Travel,VXIUWYI8PK,24-08-2024,00:09:54
+Highway Toll Subscription,Transportation & Travel,158VUTGQND,08-06-2024,05:29:12
+Auto Parts Purchase,Transportation & Travel,UU13G5I4GM,21-08-2024,04:40:40
+Movie Ticket,Entertainment & Leisure,VSWQG1UZH8,23-07-2024,03:38:56
+Online Gaming Subscription,Entertainment & Leisure,WFGKQQK8UI,12-12-2024,00:13:54
+Club Membership,Entertainment & Leisure,ISIYY3SO86,17-03-2024,23:21:49
+Streaming Subscription,Entertainment & Leisure,E952W03407,14-04-2024,21:16:09
+VR Arcade Experience,Entertainment & Leisure,MSB2PTY8EQ,20-10-2024,22:33:32
+Bowling Night,Entertainment & Leisure,1UISJNWB8O,06-02-2025,07:09:35
+Stand-up Comedy Show Ticket,Entertainment & Leisure,XR1PZE6BRW,15-06-2024,15:48:09
+Gaming Console Purchase,Entertainment & Leisure,3HXKFROJHX,21-11-2024,10:27:35
+Board Game Purchase,Entertainment & Leisure,NM8MEIQFC8,31-05-2024,18:43:45
+Karaoke Room Rental,Entertainment & Leisure,3BX2RWYYG3,09-07-2024,05:50:36
+Live Theatre Ticket,Entertainment & Leisure,NVO541BVYZ,31-07-2024,03:49:17
+Comic Convention Ticket,Entertainment & Leisure,8C2FXHIANK,20-12-2024,12:08:52
+Yoga Retreat,Other,3T2JSNNXMU,05-07-2024,17:20:02
+Travel Photography Trip,Transportation & Travel,XW97H76ZQJ,18-12-2024,18:18:49
+Camping Gear Purchase,Other,2831R5UKSD,05-05-2024,10:52:31
+Movie Streaming Rental,Daily & Household Expenses,6QG5C20L30,03-12-2024,00:44:16
+Resume Writing Service,Other,N3Y5N9HWRQ,08-08-2024,00:51:41
+Business Consulting,Transportation & Travel,FB3LBWIHMT,03-08-2024,02:24:32
+Co-Working Space Rental,Daily & Household Expenses,D2ZT81QKCO,05-06-2024,17:58:55
+Corporate Retreat Fees,Other,AD9YXFLUQ0,12-09-2024,09:11:14
+Freelance Services Payment,Other,GFWM575RKX,22-04-2024,22:05:53
+Online Marketplace Fee,Other,SQN6M4PVKW,21-08-2024,00:25:03
+Business Name Registration,Transportation & Travel,CI9F9BBNYW,10-01-2025,23:22:46
+AI-Powered Resume Review,Other,H07OWKGYUZ,07-04-2024,14:23:53
+Digital Marketing Services,Other,3SAR4MGQB5,23-07-2024,03:52:24
+Professional Certification Exam Fee,Other,IU6LKYBW46,19-06-2024,00:26:08
+Tax Filing Services,Financial & Legal Transactions,I7W4353XRD,09-07-2024,11:05:35
+Lawyer Consultation Fee,Other,QSBE5MKXY4,17-06-2024,04:26:18
+IT Security Audit,Other,F3WRX57T1U,31-08-2024,16:46:56
+Social Media Ad Spending,Other,PUGY394SYO,11-06-2024,19:46:26
+Data Science Bootcamp,Other,AKB8AMG996,12-08-2024,07:52:57
+Work Visa Application Fees,Other,R1P8Y1G7DO,05-12-2024,09:18:47
+Software License Fee,Other,UG9MBUEN1W,21-02-2024,01:36:40
+Cloud Storage Subscription,Other,KR1715C311,26-04-2024,06:24:06
+Business Logo Design,Transportation & Travel,395PNDVM5K,31-01-2025,02:24:09
+Company Branding Package,Other,DHD1ARBZNP,17-04-2024,09:21:24
+School Tuition Fees,Education & Learning,I9WFU7C9V1,08-12-2024,08:11:06
+College Textbook Purchase,Education & Learning,ZNWJO0H7WI,11-10-2024,06:59:50
+E-Book Subscription,Education & Learning,L1ASR7DRH6,27-04-2024,07:39:31
+Language Learning Subscription,Education & Learning,KIG5KLLLXJ,01-08-2024,22:25:35
+School Supplies Purchase,Education & Learning,4TND5OY1T6,10-01-2025,04:01:31
+Art Class Fees,Education & Learning,EG3RT312Q5,10-05-2024,15:59:04
+SAT/GMAT/GRE Registration Fees,Education & Learning,WYTNE81XT4,01-03-2024,17:58:51
+Study Abroad Consultation,Education & Learning,P0YD1GWYGD,17-04-2024,15:53:24
+Seminar/Workshop Registration,Education & Learning,UNSVW1XR9C,12-08-2024,09:42:10
+Certification Course Fee,Education & Learning,EUUHP9BAAJ,11-05-2024,08:06:27
+Technical Training Fees,Education & Learning,4FHUX3554V,30-12-2024,12:19:13
+Student Loan Repayment,Financial & Legal Transactions,BGESTOKNC6,15-05-2024,17:45:02
+Exam Proctoring Service Fee,Education & Learning,6AJ6L2ZCZV,01-12-2024,12:57:18
+Digital Art Course,Education & Learning,MDPSW1H8X1,10-10-2024,20:30:09
+Science Fair Participation Fee,Education & Learning,KXPUB9QEUB,06-10-2024,15:01:38
+Audio Book Subscription,Other,PYX9IAW6CG,11-12-2024,22:39:11
+Online Education Platform Subscription,Education & Learning,MG1Q8PBI16,18-01-2025,18:06:44
+PhD Research Paper Publishing Fee,Education & Learning,C8YX0G82AO,21-07-2024,18:37:19
+Aviation Training School,Education & Learning,FA3V90S449,08-12-2024,07:13:16
+Subscription to Scientific Journals,Education & Learning,U3CXRNNY21,29-08-2024,07:43:06
+Credit Card Bill Payment,Financial & Legal Transactions,1KQJUXAHZ3,23-10-2024,21:32:43
+Stock Market Investment,Financial & Legal Transactions,SQL0KLFEWK,25-01-2025,18:50:07
+Mutual Fund SIP Contribution,Financial & Legal Transactions,7V5ECISE9G,07-08-2024,16:56:28
+Crypto Trading Fee,Financial & Legal Transactions,20XQU8XQGE,31-08-2024,17:39:25
+Real Estate Crowdfunding Investment,Financial & Legal Transactions,BX8ZCHNEYQ,26-12-2024,13:28:02
+Financial Advisor Consultation,Financial & Legal Transactions,ZS3AU1GWN3,20-03-2024,22:02:03
+Wealth Management Fee,Financial & Legal Transactions,BBBI4A4BI9,11-08-2024,13:47:16
+Personal Loan EMI Payment,Financial & Legal Transactions,XHKF7CPXFV,02-11-2024,17:38:31
+Microloan Investment,Financial & Legal Transactions,ZWMENYXNJA,09-08-2024,05:17:12
+Property Tax Payment,Financial & Legal Transactions,9D792S9FUK,29-12-2024,00:23:45
+Offshore Banking Fee,Financial & Legal Transactions,W1US8XQMWQ,29-08-2024,19:48:35
+Smart Contract Audit Fee,Financial & Legal Transactions,6UQMQI0I0C,11-08-2024,00:32:31
+Peer-to-Peer Lending Contribution,Financial & Legal Transactions,KYBXEXZIJI,22-03-2024,15:52:45
+Cryptocurrency Staking Fee,Financial & Legal Transactions,8F07LCYK04,27-01-2025,12:56:16
+Robo-Advisor Subscription,Financial & Legal Transactions,0BBRABYX9B,27-05-2024,08:28:22
+Venture Capital Fund Investment,Financial & Legal Transactions,1BM4BPR166,30-03-2024,08:11:02
+NFT Minting Fee,Financial & Legal Transactions,LB3FXGZK26,10-03-2024,22:28:00
+Startup Seed Funding,Financial & Legal Transactions,PA9ST5FKDH,13-07-2024,02:43:44
+Plumbing Repair,Daily & Household Expenses,LI3NUQBEVT,10-05-2024,23:47:43
+Home Window Tinting,Daily & Household Expenses,2CZSMP0DUI,23-09-2024,20:43:21
+Air Purifier Filter Replacement,Other,723M6TP3D9,22-02-2024,01:55:12
+HVAC System Cleaning,Daily & Household Expenses,NLDIEIX6ZE,12-07-2024,03:35:40
+Smart Lock Installation,Daily & Household Expenses,K3TDH83TKH,07-06-2024,18:11:47
+Structural Engineering Inspection,Daily & Household Expenses,XR6TRCXHB3,22-08-2024,05:15:17
+House Foundation Repair,Daily & Household Expenses,H8FMFG5BM6,02-01-2025,21:24:33
+Emergency Locksmith Services,Daily & Household Expenses,KND5IB7KEE,05-05-2024,11:06:52
+Soundproofing Installation,Daily & Household Expenses,LZHF4XNT6I,23-05-2024,15:49:37
+Gutter Installation,Daily & Household Expenses,B2725JE9T2,22-02-2024,20:17:01
+Elevator Maintenance,Daily & Household Expenses,66G3DGASSC,05-11-2024,06:56:50
+Home Electrical Wiring Upgrade,Daily & Household Expenses,A1JYH2BAQ3,22-11-2024,12:00:26
+Water Softener System Installation,Daily & Household Expenses,BY384LG4VM,24-02-2024,04:55:13
+Home Automation System Repair,Daily & Household Expenses,OLRFF3PQI0,29-06-2024,19:11:53
+Doctor Consultation Fee,Health & Wellness,33D068YN06,09-08-2024,21:44:47
+Prescription Medication,Health & Wellness,5TLMDVTAS6,10-11-2024,15:22:39
+Physiotherapy Session,Health & Wellness,GU210Y6LV1,02-06-2024,04:17:32
+Sleep Disorder Treatment,Health & Wellness,74BZAHSVJT,29-12-2024,05:12:07
+Chiropractic Treatment,Health & Wellness,0NJ8QA57F8,14-12-2024,16:19:52
+Fitness Tracker Subscription,Health & Wellness,UR22KERIS7,05-01-2025,10:42:55
+Nutritionist Consultation,Health & Wellness,HKXDQFW91W,18-11-2024,06:43:25
+Bariatric Surgery,Health & Wellness,KAKZ6SZQFY,25-05-2024,06:19:11
+Telemedicine Subscription,Health & Wellness,1ZLTVJM5GN,28-09-2024,17:26:32
+Herbal Medicine Purchase,Health & Wellness,0OUVQHYHQX,11-08-2024,21:21:58
+Digital Asset Purchase,Financial & Legal Transactions,C1LQG3BNPJ,21-03-2024,03:35:20
+Philanthropy & Charity Donation,Financial & Legal Transactions,3B5WOV9KVD,07-08-2024,18:04:09
+Custom Jewelry Crafting,Other,8HLJGEYFDT,20-08-2024,20:34:40
+Event Sponsorship Fees,Other,IWO01QVB35,24-11-2024,16:27:35
+Legal Document Notarization,Financial & Legal Transactions,8XQGSC7QHY,28-12-2024,09:34:19
+AI Chatbot Development Fee,Other,AS9BCG1UJP,27-08-2024,07:04:44
+Private Security Service,Other,SFTPAVC25Q,10-08-2024,16:35:48
+Personal Concierge Service,Other,0DHL9BQRLH,07-12-2024,14:19:31
+Personalized Perfume Creation,Other,JX5QUWBQ24,04-12-2024,04:45:31
+Ate Samosa,Food & Dining,MXQ0K3JLDX,17-11-2024,05:25:15
+Chai & Biscuits,Food & Dining,6ZQB65PYYI,16-07-2024,12:09:52
+Bought a Veg Thali,Food & Dining,47ZCMKP8LF,20-08-2024,10:36:31
+Street-side Pani Puri,Food & Dining,2NPBC4C5JJ,27-10-2024,05:23:37
+Ate Momos,Food & Dining,VRDRWWWGVR,20-11-2024,21:45:39
+Dosa & Filter Coffee,Food & Dining,EYRGPP7MVI,28-12-2024,01:21:01
+Sandwich from CafÃ©,Food & Dining,8SDSCQT8HK,18-12-2024,14:29:14
+Ordered Biryani,Food & Dining,72IV6SZU2L,27-07-2024,17:34:33
+Had a Vada Pav,Food & Dining,AZD7D904J1,10-06-2024,21:37:02
+Bought a Shawarma,Food & Dining,0Z8SFS2W8G,20-08-2024,14:51:41
+Evening Snack (Pakoras),Food & Dining,QHWMPWWKKA,14-05-2024,01:32:32
+Instant Noodles Purchase,Food & Dining,Z4D90DHSEL,26-04-2024,12:09:39
+Bought a Subway Sandwich,Food & Dining,Z7H28N4LBM,25-10-2024,21:53:45
+McDonald's Burger Meal,Food & Dining,DAPZ8GA9BK,06-04-2024,19:18:36
+Fresh Juice from Vendor,Food & Dining,SG7VH9JGWH,04-12-2024,15:47:01
+Ordered Chinese Takeout,Food & Dining,6OG557WUJ4,09-10-2024,15:42:02
+Late-night Cup Noodles,Food & Dining,32JUBPLM5V,21-04-2024,14:06:41
+Had Pav Bhaji at Street Stall,Food & Dining,QUA07TWX2E,20-08-2024,06:13:52
+Bought Fresh Fruits from Market,Food & Dining,645CNKXCT4,25-12-2024,01:07:46
+Coconut Water Purchase,Food & Dining,AX3QX3HHVO,04-01-2025,22:50:42
+Bakery Cake Purchase,Food & Dining,GAUPA5U3PA,22-11-2024,18:00:51
+Purchased Ice Cream Cone,Food & Dining,3E4IPFWDQO,16-11-2024,22:34:54
+Cold Drink & Chips,Food & Dining,CS3232OCFZ,20-04-2024,02:55:25
+"Sweet Shop Purchase (Rasgulla, Jalebi, etc.)",Food & Dining,OVQ20Z9O04,16-09-2024,16:59:32
+Had a Falooda,Food & Dining,6FC49ACWRY,15-05-2024,08:36:16
+Family Dinner at a Fine-Dining Restaurant,Food & Dining,GWE1LZP1AD,27-07-2024,12:10:48
+Ordered Italian Pasta,Food & Dining,3PE55HD9PO,10-08-2024,01:32:14
+Sushi Platter from Japanese Restaurant,Food & Dining,N8HF1PU5SZ,23-06-2024,13:35:18
+Breakfast at a CafÃ©,Food & Dining,G7V72OZ3KM,27-07-2024,22:11:29
+Lunch Buffet at Hotel,Food & Dining,TO9LIIBSKV,16-11-2024,12:20:39
+Ordered Pizzas for Friends,Food & Dining,411C8Z51NC,30-11-2024,13:54:10
+Unlimited BBQ Dinner,Food & Dining,VPNR1H562Z,06-05-2024,20:03:51
+Gourmet Steakhouse Experience,Food & Dining,ZWGPPD401L,20-12-2024,04:26:51
+Mexican Taco Night,Food & Dining,3ZPLP047EF,09-06-2024,02:37:14
+Mediterranean Shawarma Platter,Food & Dining,HVZZE96X76,07-05-2024,20:05:48
+Street Food Tour,Food & Dining,MFB5YLYP5S,01-08-2024,08:31:37
+Korean BBQ Experience,Food & Dining,GQB7TBLSJC,29-10-2024,11:16:47
+Booked a Table at Rooftop Restaurant,Food & Dining,55NTYI4L7W,22-08-2024,22:34:54
+Enjoyed a Sunday Brunch,Food & Dining,R5RXL1XU1H,11-12-2024,18:40:49
+Ordered an Authentic South Indian Meal,Food & Dining,UKYKXK4085,06-05-2024,13:07:25
+Ramen & Bubble Tea Date,Food & Dining,0L1T45QIXE,01-06-2024,07:09:07
+Ordered Thai Green Curry,Food & Dining,GEXFAEDESK,10-10-2024,22:27:47
+Tried Vegan Sushi for the First Time,Food & Dining,ZFMJ9KG0W9,02-11-2024,08:46:39
+Had a French Pastry at a Bakery,Food & Dining,PF48WXLY0G,19-11-2024,04:52:46
+Enjoyed Lebanese Mezze Platter,Food & Dining,TOASTPF4V5,19-09-2024,07:14:51
+Bought a Cold Coffee,Food & Dining,SC43JCBKYQ,14-02-2024,14:11:28
+Morning Cappuccino at Starbucks,Food & Dining,Q9598XCCPE,15-01-2025,15:31:41
+Ordered Bubble Tea,Food & Dining,UDD5Y63JGP,10-12-2024,05:21:38
+Fresh Sugarcane Juice,Food & Dining,DXYAKZIHT5,18-03-2024,05:00:17
+Hot Chocolate at CafÃ©,Food & Dining,LVRXPBHORF,28-02-2024,14:44:01
+Protein Shake at Gym,Food & Dining,CRK3WUH69L,12-12-2024,16:47:06
+Purchased a Fancy Mocktail,Food & Dining,Q4EMCYGTF2,23-05-2024,23:22:03
+Herbal Green Tea Pack Purchase,Food & Dining,PJXQD1MVSM,13-09-2024,08:10:08
+Lemonade from a Street Vendor,Food & Dining,63CAID0MF7,25-10-2024,13:36:42
+"Energy Drink (Red Bull, Monster, etc.)",Food & Dining,2PPTBTMJY7,18-02-2024,19:25:17
+Ordered Iced Americano,Food & Dining,FK6OLQL99F,03-12-2024,02:02:13
+Mango Smoothie Purchase,Food & Dining,0S293OGM7E,24-01-2025,07:46:55
+Tried Kombucha for the First Time,Food & Dining,YMSBSQ0JR4,12-03-2024,22:51:07
+Bought a Bottle of Organic Juice,Food & Dining,ITZC2YZTEF,10-02-2024,15:51:36
+Purchased a Craft Beer,Food & Dining,AO5H4UO3W3,28-10-2024,17:24:13
+Had Fresh Coconut Water,Food & Dining,TDRWO9MBSE,23-09-2024,10:49:07
+Ordered a Custom Smoothie Bowl,Food & Dining,Q618JWF8H2,28-05-2024,15:41:56
+Bought Specialty Coffee Beans,Food & Dining,AME1PZDC2R,03-07-2024,19:15:14
+Booked a Wine Tasting Experience,Food & Dining,CVTRER623K,07-07-2024,14:58:18
+Ordered a Premium Whiskey,Food & Dining,UOJQ77Y99S,05-07-2024,13:42:14
+Grocery Shopping for Home Cooking,Daily & Household Expenses,5LRK8T1HN9,10-03-2024,22:41:09
+Bought Fresh Organic Vegetables,Daily & Household Expenses,88Q8TC4DIE,15-09-2024,01:07:56
+Bought Indian Spices for Cooking,Daily & Household Expenses,58U7EV6M0V,30-09-2024,07:37:41
+Purchased a Bulk Pack of Rice,Daily & Household Expenses,SRAQQBBO5X,02-11-2024,23:19:07
+Milk & Dairy Purchase,Daily & Household Expenses,7OFCOV7ORK,20-05-2024,02:05:19
+Picked Up Fresh Bread & Eggs,Daily & Household Expenses,H4UM1LDGD4,31-07-2024,18:04:37
+Bought Cooking Oil & Ghee,Daily & Household Expenses,EVMGPTQ2EX,16-03-2024,01:04:50
+Ordered Meal Kit Subscription,Daily & Household Expenses,TY225KBC1W,29-04-2024,01:23:35
+Bought a New Cooking Utensil,Daily & Household Expenses,FQS1JA6OFC,22-04-2024,09:24:40
+Invested in an Air Fryer for Healthy Cooking,Daily & Household Expenses,BR4AQ53NTW,15-07-2024,20:29:41
+Monthly Grocery Stock-up,Daily & Household Expenses,1T75ZTD8OI,04-05-2024,18:53:24
+Bought Frozen Food Items,Daily & Household Expenses,OMK0L94P8E,26-04-2024,09:49:10
+Packed Lunch for Work,Daily & Household Expenses,HJWG89ZW9G,09-02-2024,09:22:44
+Bought Homemade Pickles & Chutneys,Daily & Household Expenses,GWJV22BF6E,16-12-2024,04:17:38
+Purchased Specialty Cheese,Daily & Household Expenses,3YT5TMFNEY,21-08-2024,21:40:29
+Ordered Freshly Baked Breads,Daily & Household Expenses,HCFJ1ZJD7L,21-12-2024,00:33:25
+Bought Nut Butter & Honey,Daily & Household Expenses,18SCTJOARO,03-10-2024,04:40:03
+Weekend Farmerâ€™s Market Shopping,Daily & Household Expenses,R10A7RSGTM,16-03-2024,05:47:15
+Ordered Organic Grains Online,Daily & Household Expenses,0S64GXY7JL,21-09-2024,10:46:30
+Stocked Up on Instant Coffee,Daily & Household Expenses,D9ZQAZXY3L,04-04-2024,08:07:44
+Ordered McDonald's Fries & Coke,Food & Dining,ZDEXX6D6K0,13-05-2024,14:05:50
+Had a KFC Fried Chicken Bucket,Food & Dining,6A0T0LJYEB,14-03-2024,08:34:37
+Late-Night Dominoâ€™s Pizza,Food & Dining,32XKY1YIC3,17-07-2024,04:59:21
+Tried a New Burger Joint,Food & Dining,4MN2LPQBS6,21-02-2024,15:31:02
+Grabbed a Taco Bell Burrito,Food & Dining,W4BJ4FVHUU,18-01-2025,14:43:07
+Subway Footlong Sandwich Combo,Food & Dining,1QF4CBJZRH,26-06-2024,18:31:34
+Had a Krispy Kreme Donut,Food & Dining,1JPTCOBOR2,01-01-2025,16:28:12
+Ordered a Big Mac Meal,Food & Dining,O6U9E9B1UK,17-07-2024,01:55:03
+Tried a Limited-Edition Shake at Dairy Queen,Food & Dining,R5QFPSEUTB,27-12-2024,06:13:34
+Ate a Hot Dog at a Food Truck,Food & Dining,B13D3GFXVJ,09-01-2025,14:07:06
+Grabbed a Quick Croissant for Breakfast,Food & Dining,V8CQO93PWM,23-11-2024,00:33:43
+Ordered Fries & Nuggets from Wendyâ€™s,Food & Dining,KNSH2AG2O9,13-05-2024,06:47:29
+Had a Midnight McFlurry Treat,Food & Dining,TZXC4TO1ZA,04-10-2024,16:59:27
+Bought Instant Popcorn for Movie Night,Food & Dining,KQTIBJY4XZ,23-06-2024,23:17:48
+Enjoyed a Pretzel & Lemonade,Food & Dining,4O8NQZYRYL,14-08-2024,02:37:53
+Ordered a Protein-Packed Salad,Food & Dining,74TH6201X6,11-02-2024,14:36:12
+Purchased a Keto Meal Kit,Daily & Household Expenses,UT61TLBBCJ,09-05-2024,12:12:54
+Bought Low-Carb Snacks,Daily & Household Expenses,O7X4EER7NJ,09-07-2024,21:32:27
+Picked Up Vegan Protein Bars,Daily & Household Expenses,LZEK4KR51A,14-01-2025,03:41:00
+Bought Fresh Almond Milk,Daily & Household Expenses,453XKRQZV4,02-06-2024,18:30:56
+"Tried a New Superfood (Chia, Quinoa, etc.)",Daily & Household Expenses,CMALQ0NHZS,29-08-2024,05:58:41
+Ordered a Gluten-Free Meal,Food & Dining,SGHNOEZW2N,22-12-2024,05:15:17
+Purchased Organic Herbal Supplements,Daily & Household Expenses,Y6AR3S8CU6,12-06-2024,07:58:37
+Bought a Diet Meal Replacement Shake,Food & Dining,WGSFYVBT27,12-05-2024,00:55:49
+Invested in Cold-Pressed Juices,Food & Dining,WVJ19UV6NS,28-08-2024,16:34:46
+Stocked Up on Greek Yogurt,Daily & Household Expenses,YYZ5M84599,17-10-2024,09:33:39
+Ordered a Healthy Buddha Bowl,Food & Dining,MO6K2J4561,04-06-2024,02:31:53
+Bought a Sugar-Free Dessert,Food & Dining,DXBWTBTE52,12-03-2024,04:39:32
+Got an Acai Bowl for Breakfast,Food & Dining,OGZJXZ7FU9,28-08-2024,10:15:34
+Tried Plant-Based Meat for the First Time,Food & Dining,AIWX1YKFFW,19-04-2024,03:17:55
+Purchased Whole Wheat Pasta,Daily & Household Expenses,I7DN6B7B06,09-09-2024,10:49:07
+Bought a Family Pack of Mixed Nuts,Daily & Household Expenses,PYC2WWYW08,10-12-2024,06:28:28
+Ordered a Detox Juice Cleanse,Daily & Household Expenses,QWEYCNWBSF,30-09-2024,16:04:12
+Subscribed to a Weekly Organic Produce Box,Food & Dining,VJWFOMKVFU,09-10-2024,15:32:30
+Started a High-Protein Diet Meal Plan,Daily & Household Expenses,L5X13WMDCN,28-08-2024,10:14:44
+Birthday Cake Purchase,Food & Dining,YSP2Z4I9Q7,24-11-2024,10:40:25
+Ordered a Wedding Anniversary Dinner,Food & Dining,88L3EQKPQY,27-03-2024,01:37:36
+Hosted a Home BBQ Party,Daily & Household Expenses,49GO4AC45W,09-03-2024,17:43:43
+Cooked a Special Holiday Feast,Food & Dining,2N0XOIDFTB,10-08-2024,19:18:51
+Ordered a Customized Chocolate Box,Food & Dining,9S9UX3263A,02-12-2024,09:48:46
+Bought an Exotic Fruit Basket,Food & Dining,1MYGJT3FT3,11-05-2024,19:38:55
+Christmas Dinner Booking,Food & Dining,ONEC2FW1Y9,08-08-2024,06:25:38
+Ordered a Premium Sushi Platter,Food & Dining,63QX61KBQE,23-07-2024,02:23:26
+Catered Food for a Party,Food & Dining,TI2LZTBKCE,10-10-2024,20:36:53
+Attended a Gourmet Food Festival,Food & Dining,9H6SGR21D2,01-12-2024,13:22:24
+Had a Thanksgiving Turkey Meal,Food & Dining,VGER2GC893,28-09-2024,06:02:30
+Purchased Handmade Chocolates,Food & Dining,2E67N56H3Y,06-07-2024,13:53:49
+Ordered a Midnight Food Delivery,Food & Dining,ZTWGHOIAWW,03-11-2024,13:27:34
+Enjoyed an Exclusive Chefâ€™s Table Dinner,Food & Dining,2PJ4KCJJ27,23-09-2024,08:47:04
+Celebrated a Promotion with Fine Dining,Food & Dining,FMBIJFGTQQ,26-01-2025,14:51:30
+Hosted a Wine & Cheese Tasting,Food & Dining,KE29H4LU7F,18-01-2025,07:13:01
+Ordered a Specialty Cake for Office Celebration,Food & Dining,OBXWQ4MV6B,18-12-2024,15:11:29
+Bought an Imported Food Hamper,Food & Dining,ZP3GRJMMLZ,01-04-2024,09:48:18
+Tried a Rare & Expensive Coffee,Food & Dining,ZWOQ4F017R,26-08-2024,02:50:48
+Bought a Personalized Birthday Cake,Food & Dining,574QD2IFR1,03-04-2024,06:43:27
+Basmati Rice Purchase,Daily & Household Expenses,P6WT0IYTS8,05-10-2024,10:36:05
+Sona Masoori Rice,Daily & Household Expenses,QTHNX6L2ZO,31-07-2024,23:40:27
+Atta (Whole Wheat Flour) Purchase,Daily & Household Expenses,TXHEOV3DA8,06-09-2024,05:04:35
+Besan (Gram Flour) Purchase,Daily & Household Expenses,AJBJSN71J2,24-05-2024,03:40:56
+Ragi Flour Purchase,Daily & Household Expenses,1N7KDX4EUF,19-08-2024,16:57:23
+Maida (Refined Flour) Purchase,Daily & Household Expenses,16JXKHIQCR,31-10-2024,23:35:01
+Jowar & Bajra Flour,Daily & Household Expenses,CZKZXL7V8A,26-02-2024,23:25:21
+Poha (Flattened Rice) Purchase,Daily & Household Expenses,N2CDHGV9RJ,10-10-2024,00:07:06
+Vermicelli (Sevaiyan) Purchase,Daily & Household Expenses,P6XTP30ZB7,11-08-2024,06:12:31
+Rava (Sooji) for Upma,Daily & Household Expenses,4AEN9LZDZX,18-02-2024,16:51:41
+Dalia (Broken Wheat) Purchase,Daily & Household Expenses,81SCSJGX4Y,17-08-2024,03:18:01
+Sabudana (Tapioca Pearls) Purchase,Daily & Household Expenses,TEOM6WGME6,13-03-2024,17:42:13
+Makhana (Fox Nuts) Purchase,Daily & Household Expenses,8LOEU83XXX,18-08-2024,13:49:36
+Toor Dal (Pigeon Pea) Purchase,Daily & Household Expenses,N4JQ0EAFF6,26-03-2024,06:15:33
+Moong Dal (Yellow Split Lentil) Purchase,Daily & Household Expenses,NTVU0RMC52,20-12-2024,10:51:24
+Chana Dal (Bengal Gram) Purchase,Daily & Household Expenses,YLP8E65DAF,21-02-2024,17:30:50
+Urad Dal (Black Gram) Purchase,Daily & Household Expenses,EEJMHXZPNM,22-10-2024,09:06:38
+Masoor Dal (Red Lentils) Purchase,Daily & Household Expenses,E82NA5EBQT,06-07-2024,08:39:41
+Rajma (Kidney Beans) Purchase,Daily & Household Expenses,Z6P3XES5PY,26-09-2024,09:32:52
+Chole (Chickpeas) Purchase,Daily & Household Expenses,DGQD9RXDAG,03-04-2024,07:23:14
+Turmeric Powder Purchase,Daily & Household Expenses,T7MNYXCWM7,18-07-2024,10:45:19
+Red Chili Powder Purchase,Daily & Household Expenses,5VS1EDB2D6,05-12-2024,18:52:33
+Coriander Powder Purchase,Daily & Household Expenses,0Q3Z2YTTDN,25-08-2024,11:59:36
+Jeera (Cumin) Purchase,Daily & Household Expenses,VMJZ26JDJ9,19-08-2024,15:27:39
+Rai (Mustard Seeds) Purchase,Daily & Household Expenses,T1XTRLL1AZ,26-05-2024,01:04:22
+Ajwain (Carom Seeds) Purchase,Daily & Household Expenses,RDOZABDKDF,02-05-2024,05:36:36
+Hing (Asafoetida) Purchase,Daily & Household Expenses,WIDE3ESTU1,27-01-2025,08:54:19
+Black Pepper Purchase,Daily & Household Expenses,JV4Y0120TP,29-10-2024,09:46:54
+Garam Masala Purchase,Daily & Household Expenses,Q07KTYJD5O,27-02-2024,16:14:22
+Pav Bhaji Masala Purchase,Daily & Household Expenses,GTV8781A2X,07-02-2025,21:59:12
+Curry Leaves Purchase,Daily & Household Expenses,WCSFW8I5F5,11-10-2024,08:42:09
+Cloves & Cardamom Purchase,Daily & Household Expenses,91MKI6UUF9,17-06-2024,18:30:12
+Aloo (Potato) Purchase,Daily & Household Expenses,FOLB6YAIY6,22-03-2024,13:35:15
+Onion & Garlic Purchase,Daily & Household Expenses,MQKSGEQOJ8,22-01-2025,00:47:26
+Tomato Purchase,Daily & Household Expenses,CB8Y68NMJZ,22-03-2024,08:37:08
+Green Chili Purchase,Daily & Household Expenses,09BUR2BO6U,17-02-2024,15:29:13
+Brinjal (Baingan) Purchase,Daily & Household Expenses,3GM2HHPN5W,02-05-2024,14:27:36
+Bhindi (Lady Finger) Purchase,Daily & Household Expenses,KY4D917LF6,08-12-2024,20:22:52
+Seasonal Fruits Purchase,Daily & Household Expenses,0PCNBM0PJJ,27-02-2024,01:19:49
+Cow Milk Purchase,Daily & Household Expenses,PMYPMGNKHP,17-12-2024,11:27:13
+Buffalo Milk Purchase,Daily & Household Expenses,DOY5YYJE3G,21-08-2024,06:07:13
+Paneer Purchase,Daily & Household Expenses,KW1T0ZTBQ3,19-03-2024,01:05:05
+Curd/Dahi Purchase,Daily & Household Expenses,GKD7SU2MS3,29-06-2024,17:35:34
+Buttermilk (Chaas) Purchase,Daily & Household Expenses,XI7H9188LI,11-10-2024,04:34:56
+Ghee Purchase,Daily & Household Expenses,EQV2M7ZMNZ,16-09-2024,18:43:05
+"Namkeen (Haldiram, Balaji, etc.) Purchase",Daily & Household Expenses,Z3JF3RPQ36,07-09-2024,02:29:53
+Mixture & Bhujia Purchase,Daily & Household Expenses,32HC5CSO2L,17-06-2024,10:52:50
+Banana Chips Purchase,Daily & Household Expenses,8KQDX4HWF5,20-04-2024,08:24:31
+Kaju Katli Purchase,Daily & Household Expenses,HQ44NJUU2O,09-06-2024,01:28:54
+Jaggery (Gur) Purchase,Daily & Household Expenses,Z0VFZR61WZ,20-03-2024,19:51:46
+Mustard Oil Purchase,Daily & Household Expenses,RL7KM2AYIK,13-08-2024,04:38:37
+Sunflower Oil Purchase,Daily & Household Expenses,M0QFRS53JK,18-08-2024,13:52:34
+Groundnut Oil Purchase,Daily & Household Expenses,A1W0UZ8GW0,08-03-2024,06:09:36
+Coconut Oil Purchase,Daily & Household Expenses,IYYKYI0KPL,09-08-2024,21:29:16
+Indian Tea (Chai Patti) Purchase,Daily & Household Expenses,LH7UPV2NL4,10-06-2024,11:50:25
+Coffee Powder Purchase,Daily & Household Expenses,AWDCC7UMDI,01-08-2024,17:55:05
+Green Tea Purchase,Daily & Household Expenses,CF78D9TKZA,03-05-2024,02:08:55
+Instant Coffee Purchase,Daily & Household Expenses,W47JV8UN4M,25-11-2024,09:48:41
+Bournvita/Horlicks Purchase,Daily & Household Expenses,AQF2SQYOIT,23-02-2024,02:55:46
+Agarbatti (Incense Sticks) Purchase,Daily & Household Expenses,Z7SUM9Q8PF,22-05-2024,16:56:35
+Camphor (Kapoor) Purchase,Daily & Household Expenses,3A7X27A4P1,29-08-2024,12:51:40
+Puja Flowers & Garland Purchase,Daily & Household Expenses,U4C5D5HGCZ,27-12-2024,20:37:11
+hackathon,Education & Learning,RD5D6HGLZP,09-04-2024,15:25:03
+HACK-N-DROID,Education & Learning,P8D7D0HJKL,09-12-2024,10:38:33
+Hackhub,Education & Learning,H8N7D0H8OA,16-06-2024,15:01:29
+Netflix subscription,Entertainment & Leisure,Z0VFZR61WZ,06-08-2024,16:15:11
+Amazon Prime Video subscription,Entertainment & Leisure,X8PLM23KYA,09-08-2024,22:22:46
+Disney+ Hotstar VIP/Premium subscription,Entertainment & Leisure,G4TYQ79BSD,02-02-2025,13:30:58
+JioCinema Premium subscription,Entertainment & Leisure,J5WCN82TVX,12-07-2024,02:16:53
+SonyLIV subscription,Entertainment & Leisure,K2BLX56MNV,17-04-2024,12:07:00
+ZEE5 subscription,Entertainment & Leisure,Q1HTZ48PFL,30-07-2024,11:43:05
+ALTBalaji subscription,Entertainment & Leisure,R9MKD37XWY,13-03-2024,00:19:13
+Voot Select subscription,Entertainment & Leisure,U7LBC94TDX,24-09-2024,12:43:15
+Spotify Premium subscription,Entertainment & Leisure,M3PVZ62LQK,04-11-2024,16:26:16
+YouTube Music Premium,Entertainment & Leisure,V5TRX81BJN,06-04-2024,09:53:55
+BGMI,Entertainment & Leisure,R5TVX81BJN,28-04-2024,06:30:36
+Dream11,Entertainment & Leisure,R5TKX919JY,22-01-2025,19:10:48
+Stake,Entertainment & Leisure,RIDD151544,02-12-2024,03:11:07
+PlayStation,Entertainment & Leisure,R8C6D6CVDF,09-09-2024,14:23:10
+Xbox,Entertainment & Leisure,MVP78VDW23,01-09-2024,13:57:15
+BookMyShow,Entertainment & Leisure,45CR4FF5FW,10-06-2024,16:06:41
+IPL / Cricket match tickets,Entertainment & Leisure,K2YBZL84NP,15-11-2024,07:06:14
+INOX,Entertainment & Leisure,S5WKMJ91XP,28-05-2024,22:40:52
+PVR,Entertainment & Leisure,A9XPLZ73KD,23-05-2024,23:43:25
+Cinepolis,Entertainment & Leisure,B3YTRM82VQ,25-08-2024,02:04:02
+Concert,Entertainment & Leisure,C7MWKX56LJ,26-09-2024,12:53:41
+Imagicaa Amusement Park entry,Entertainment & Leisure,D2LQPZ48HT,23-11-2024,03:13:25
+Ramoji Film City tour tickets,Entertainment & Leisure,E5JNXB91TV,29-11-2024,12:11:14
+Goa casino entry fees,Entertainment & Leisure,F8KMRY62WL,12-09-2024,07:21:45
+Sula Vineyard tour tickets,Entertainment & Leisure,G1TQZC73XP,27-05-2024,01:31:54
+Trip,Entertainment & Leisure,H4VPLM89JD,21-07-2024,23:14:25
+Dinner at Taj Mahal Palace,Entertainment & Leisure,J5WCN82TVX,16-02-2024,07:13:28
+Entry to Sunburn Music Festival,Entertainment & Leisure,K2BLX56MNV,30-05-2024,13:10:03
+Goa beach shack party,Entertainment & Leisure,Q1HTZ48PFL,09-12-2024,20:09:56
+Tickets for RCB vs CSK IPL match,Entertainment & Leisure,R9MKD37XWY,28-07-2024,21:52:22
+"Dinner at Bukhara, ITC Maurya",Entertainment & Leisure,U7LBC94TDX,28-05-2024,20:28:30
+Trip to Jim Corbett National Park,Entertainment & Leisure,M3PVZ62LQK,06-03-2024,06:51:59
+"Visiting Marine Drive, Mumbai",Entertainment & Leisure,V5TRX81BJN,26-03-2024,06:56:32
+Jungle safari at Ranthambore,Entertainment & Leisure,A9XPLZ73KD,26-06-2024,04:08:14
+Ticket to Lollapalooza India concert,Entertainment & Leisure,B3YTRM82VQ,30-08-2024,01:43:30
+"Dinner at Peter Cat, Kolkata",Entertainment & Leisure,C7MWKX56LJ,25-07-2024,16:41:17
+Attended a Bollywood awards function,Entertainment & Leisure,D2LQPZ48HT,20-11-2024,22:09:24
+"Trip to Ramoji Film City, Hyderabad",Entertainment & Leisure,E5JNXB91TV,04-11-2024,22:46:19
+Visit to Kumbh Mela,Entertainment & Leisure,F8KMRY62WL,22-08-2024,22:47:16
+Ticket for Lakme Fashion Week,Entertainment & Leisure,G1TQZC73XP,21-07-2024,18:09:05
+"Sunset cruise at Mandovi River, Goa",Entertainment & Leisure,H4VPLM89JD,07-02-2025,00:24:20
+"Party at Kitty Su, Delhi",Entertainment & Leisure,J9QXTR56MW,14-03-2024,16:40:37
+Visit to Jaipur Literature Festival,Entertainment & Leisure,K2YBZL84NP,27-10-2024,03:05:22
+Watching stand-up comedy at Canvas Laugh Club,Entertainment & Leisure,L5WKMJ73VT,03-09-2024,00:18:37
+Trekking in Himachal Pradesh,Entertainment & Leisure,M8LQRY62XP,07-05-2024,06:31:34
+Paragliding in Bir Billing,Entertainment & Leisure,N1TXPZ89WJ,08-03-2024,07:53:40
+Visiting Akshardham Light Show,Entertainment & Leisure,P4VKMJ56QL,30-10-2024,22:57:00
+Photography tour in Ladakh,Entertainment & Leisure,Q7YTRX82LW,19-01-2025,13:53:36
+River rafting in Rishikesh,Entertainment & Leisure,R2LQZC73MN,11-05-2024,19:29:27
+Yak safari in Sikkim,Entertainment & Leisure,S5WKMJ91XP,16-01-2025,23:10:40
+"Dinner at Karim's, Old Delhi",Entertainment & Leisure,T8YBZL62QR,01-11-2024,08:02:48
+Bike ride to Leh Ladakh,Entertainment & Leisure,U1TXPZ89MW,28-11-2024,22:31:02
+Street food tour in Chandni Chowk,Entertainment & Leisure,V4LQRY73XJ,04-06-2024,22:17:55
+Visit to Mysore Dasara festival,Entertainment & Leisure,W6TXPZ45MJ,08-03-2024,04:30:45
+Watching live play at Prithvi Theatre,Entertainment & Leisure,X2YBZL97TP,03-08-2024,04:38:33
+Elephant safari at Kaziranga,Entertainment & Leisure,Y3TXPZ56WL,07-08-2024,07:45:22
+Attending NH7 Weekender Music Festival,Entertainment & Leisure,Z5YTRX83BL,23-08-2024,17:50:27
+"Boating in Naini Lake, Nainital",Entertainment & Leisure,A7PLMZ42TV,20-11-2024,10:00:52
+Visit to Bollywood Film Set,Entertainment & Leisure,B9YTRX61KM,25-01-2025,22:19:50
+"Party at Soho House, Mumbai",Entertainment & Leisure,C4PLMZ82YT,05-06-2024,17:34:11
+Watching Kabbadi Pro League Match,Entertainment & Leisure,D8TXPZ72YL,11-09-2024,19:41:23
+"Ice-skating at DLF Mall, Noida",Entertainment & Leisure,E1YTRX53PM,06-06-2024,00:10:54
+Exploring local markets in Jaipur,Entertainment & Leisure,F6PLMZ41TV,03-02-2025,08:20:17
+Horse riding in Matheran,Entertainment & Leisure,G3YTRX62LP,01-01-2025,02:55:22
+Dolphin spotting in Goa,Entertainment & Leisure,H9PLMZ82YT,28-08-2024,01:51:23
+Attended Arijit Singh's live concert,Entertainment & Leisure,JX7PLM83TVY,03-03-2024,15:56:36
+Helicopter ride over Mumbai skyline,Entertainment & Leisure,KQ5YTRX62PL,21-09-2024,11:13:48
+Enjoyed a camel safari in Jaisalmer,Entertainment & Leisure,LT9PLMZ42KP,27-07-2024,22:24:44
+Street performance at Connaught Place,Entertainment & Leisure,MZ3YTRX91WL,06-10-2024,03:32:53
+Late-night drive on Marine Drive,Entertainment & Leisure,NB8PLMZ63XT,13-08-2024,04:31:58
+Attended an Indian wedding function,Entertainment & Leisure,PQ6YTRX52LV,17-04-2024,16:52:17
+Dinner cruise on the Ganges in Kolkata,Entertainment & Leisure,QW4PLMZ83XY,11-01-2025,05:06:40
+Flew kites during Makar Sankranti,Entertainment & Leisure,RJ7YTRX74PL,02-05-2024,04:50:22
+Hot air balloon ride in Jaipur,Entertainment & Leisure,SZ9PLMZ52TW,04-08-2024,04:04:15
+"Played arcade games at Smaaash, Mumbai",Entertainment & Leisure,TX3YTRX81VP,09-01-2025,08:32:33
+"Explored Elephanta Caves, Mumbai",Entertainment & Leisure,UQ6PLMZ42XL,08-05-2024,08:27:51
+Visited India Gate & had street food,Entertainment & Leisure,VX8YTRX93WP,01-11-2024,07:15:31
+"Had a picnic at Lodhi Garden, Delhi",Entertainment & Leisure,WZ5PLMZ61KQ,04-06-2024,15:27:23
+Traditional Rajasthani dinner in Udaipur,Entertainment & Leisure,XQ7YTRX52PL,13-06-2024,00:35:30
+"Watched sunrise at Tiger Hill, Darjeeling",Entertainment & Leisure,YW3PLMZ83TW,02-08-2024,00:49:49
+Explored caves in Meghalaya,Entertainment & Leisure,ZZ9YTRX72LP,08-02-2025,07:01:33
+Watched Ganga Aarti at Varanasi,Entertainment & Leisure,A3PLMZ61YWX,04-08-2024,22:05:12
+Learned Bollywood dance in Mumbai,Entertainment & Leisure,BQ7YTRX52VP,16-12-2024,14:46:21
+Did a pottery workshop in Jaipur,Entertainment & Leisure,CZ5PLMZ83WX,18-03-2024,16:00:52
+Experienced the Rann Utsav in Kutch,Entertainment & Leisure,DZ7YTRX93PL,28-02-2024,15:37:42
+Purchased Ayurvedic medicines from Patanjali,Health & Wellness,XJ7PLM83TVY,25-05-2024,03:18:26
+Consulted a general physician at Apollo,Health & Wellness,KQ5YTRX62PL,22-11-2024,06:46:11
+Bought BP and diabetes medicines,Health & Wellness,LT9PLMZ42KP,10-10-2024,04:51:16
+Full-body health checkup at Max Hospital,Health & Wellness,MZ3YTRX91WL,23-07-2024,20:45:48
+Dental checkup at Clove Dental,Health & Wellness,NB8PLMZ63XT,08-06-2024,22:24:45
+Eye test at Titan Eye Plus,Health & Wellness,PQ6YTRX52LV,30-09-2024,00:30:49
+Bought herbal supplements,Health & Wellness,QW4PLMZ83XY,05-12-2024,17:44:55
+Emergency visit to Fortis Hospital,Health & Wellness,RJ7YTRX74PL,30-04-2024,07:55:50
+Physiotherapy session at Nightingale Clinic,Health & Wellness,SZ9PLMZ52TW,05-02-2025,00:05:33
+Joined a yoga class in Rishikesh,Health & Wellness,TX3YTRX81VP,13-11-2024,09:37:03
+Ayurvedic Panchakarma therapy,Health & Wellness,UQ6PLMZ42XL,03-12-2024,19:02:40
+Purchased homeopathic medicines,Health & Wellness,VX8YTRX93WP,15-12-2024,16:50:06
+MRI scan at AIIMS,Health & Wellness,WZ5PLMZ61KQ,21-09-2024,15:01:40
+Blood sugar test at Pathology Lab,Health & Wellness,XQ7YTRX52PL,16-07-2024,11:55:01
+Annual dental cleaning at Smile Dental,Health & Wellness,YW3PLMZ83TW,10-08-2024,12:15:49
+Bought ayurvedic pain relief oil,Health & Wellness,ZZ9YTRX72LP,02-11-2024,12:43:38
+Allergy test at Dr. Lal PathLabs,Health & Wellness,A3PLMZ61YWX,30-12-2024,03:18:01
+Attended stress management workshop,Health & Wellness,BQ7YTRX52VP,21-01-2025,17:42:51
+Home nursing service for post-surgery care,Health & Wellness,CZ5PLMZ83WX,16-06-2024,16:01:04
+Took Covid-19 vaccine booster shot,Health & Wellness,DZ7YTRX93PL,04-12-2024,03:19:46
+Bought protein supplements,Health & Wellness,EQ9PLMZ82VL,30-12-2024,07:04:08
+CT scan at Medanta Hospital,Health & Wellness,FQ6YTRX72PL,14-06-2024,16:52:04
+Joined a meditation retreat,Health & Wellness,GZ7PLMZ91TW,21-11-2024,14:13:36
+Bought weight loss supplements,Health & Wellness,HQ3YTRX52LP,18-07-2024,05:19:52
+Emergency ambulance service,Health & Wellness,IZ9PLMZ63TW,18-05-2024,13:30:13
+Ayurvedic consultation for digestion issues,Health & Wellness,JQ5YTRX83PL,19-12-2024,10:17:22
+Blood pressure monitor purchase,Health & Wellness,KX8PLMZ52VP,17-01-2025,01:15:34
+Enrolled in a marathon for fitness,Health & Wellness,LZ3YTRX92WL,04-04-2024,18:07:05
+Attended a nutritionist consultation,Health & Wellness,MX9PLMZ71TW,02-04-2024,19:49:55
+Ayurvedic therapy for joint pain,Health & Wellness,NX7YTRX52VL,21-08-2024,06:28:48
+Medical checkup for work visa,Health & Wellness,OQ6PLMZ83WX,10-10-2024,23:23:27
+Bought a digital thermometer,Health & Wellness,PQ7YTRX72PL,30-03-2024,23:01:25
+Homeopathy treatment for allergies,Health & Wellness,QX9PLMZ63TW,10-03-2024,11:22:51
+Attended laughter yoga session,Health & Wellness,RQ5YTRX92LP,12-01-2025,02:41:49
+Bought a massage chair for back pain,Health & Wellness,SX3PLMZ81TW,07-04-2024,23:57:38
+Vision therapy for eye strain,Health & Wellness,TX9YTRX71VL,30-08-2024,15:48:06
+Ayurvedic detox therapy,Health & Wellness,UQ7PLMZ52PL,11-05-2024,12:57:03
+30-day gym membership renewal,Health & Wellness,VX5YTRX83WP,07-06-2024,19:06:46
+Acupuncture session for stress relief,Health & Wellness,WQ9PLMZ92WL,02-12-2024,10:14:18
+Purchased Ayurvedic herbal tea,Health & Wellness,YX5PLMZ73WL,28-02-2024,04:37:50
+Blood donation at Red Cross India,Health & Wellness,ZQ7YTRX91PL,08-10-2024,05:15:28
+Bought calcium and vitamin D supplements,Health & Wellness,A9PLMZ62XT,19-06-2024,05:33:40
+Physiotherapy for knee pain,Health & Wellness,BQ3YTRX51VP,07-08-2024,08:46:54
+Laser eye surgery at Sankara Nethralaya,Health & Wellness,C7PLMZ83WL,11-11-2024,19:07:24
+Health insurance premium payment,Health & Wellness,DQ5YTRX72PL,10-09-2024,09:26:49
+Acupressure therapy session,Health & Wellness,EX9PLMZ61WX,07-03-2024,08:21:33
+Homeopathy treatment for migraine,Health & Wellness,FQ7YTRX92PL,07-09-2024,12:19:08
+Bought ORS and electrolyte powders,Health & Wellness,G3PLMZ52TW,06-03-2024,10:10:49
+Ayurveda consultation for weight loss,Health & Wellness,HX9YTRX73VP,06-08-2024,02:06:51
+Oxygen cylinder rental for home use,Health & Wellness,IQ5PLMZ62PL,10-04-2024,00:26:22
+Health supplements from Himalaya Wellness,Health & Wellness,JQ7YTRX51WP,12-02-2024,15:34:04
+Joined a Zumba dance fitness class,Health & Wellness,K3PLMZ82XL,19-12-2024,23:56:05
+Annual thyroid test at Thyrocare,Health & Wellness,LQ9YTRX63PL,06-08-2024,06:03:07
+Covid-19 RT-PCR test for travel,Health & Wellness,M7PLMZ91TW,15-02-2024,04:44:10
+Traditional Ayurvedic body massage,Health & Wellness,NQ5YTRX82LP,17-05-2024,12:03:07
+Hydrotherapy session at wellness spa,Health & Wellness,OX9PLMZ71WP,19-11-2024,19:53:07
+Consultation with orthopedic specialist,Health & Wellness,PQ7YTRX63VL,03-01-2025,23:35:18
+Monthly diabetic check-up,Health & Wellness,Q3PLMZ52XL,02-05-2024,02:22:12
+Naturopathy treatment for arthritis,Health & Wellness,RX9YTRX82PL,15-07-2024,01:06:18
+Postnatal care checkup at Motherhood Clinic,Health & Wellness,SQ5PLMZ71TW,30-03-2024,06:51:36
+Herbal hair and skin treatment,Health & Wellness,TQ7YTRX92PL,13-04-2024,07:58:37
+Knee replacement surgery,Health & Wellness,U3PLMZ63VP,08-06-2024,15:14:53
+Emergency dental surgery,Health & Wellness,VX9YTRX81WL,20-03-2024,06:31:58
+Online mental health therapy session,Health & Wellness,WQ5PLMZ52WP,12-03-2024,12:33:14
+Regular check-up for hypertension,Health & Wellness,XQ7YTRX71PL,09-04-2024,02:38:55
+Prenatal yoga class for expecting mothers,Health & Wellness,Y3PLMZ92XL,18-10-2024,15:23:23
+Ayurveda retreat in Kerala,Health & Wellness,ZZ9YTRX83WP,24-02-2024,20:56:42
+Medicated foot care for diabetics,Health & Wellness,A7PLMZ61TW,02-09-2024,21:38:01
+Purchased Dolo 650 for fever,Health & Wellness,YX5PLMZ73WL,21-07-2024,07:44:24
+Bought Crocin Advance for headache,Health & Wellness,ZQ7YTRX91PL,26-08-2024,06:15:05
+Bought Azithromycin 500mg for infection,Health & Wellness,A9PLMZ62XT,29-02-2024,14:48:26
+Purchased Cetirizine for allergy relief,Health & Wellness,BQ3YTRX51VP,21-01-2025,07:55:07
+Bought ORS sachets for dehydration,Health & Wellness,C7PLMZ83WL,01-02-2025,07:59:31
+Purchased Metformin 500mg for diabetes,Health & Wellness,DQ5YTRX72PL,25-12-2024,02:56:16
+Monthly refill of Thyronorm 50mcg,Health & Wellness,EX9PLMZ61WX,12-12-2024,23:36:20
+Consultation at Apollo Hospital,Health & Wellness,FQ7YTRX92PL,06-07-2024,15:11:44
+Bought Disprin for migraine,Health & Wellness,G3PLMZ52TW,25-12-2024,00:47:45
+Purchased Zandu Balm for headache,Health & Wellness,HX9YTRX73VP,12-06-2024,11:36:06
+Purchased Pantoprazole 40mg for acidity,Health & Wellness,IQ5PLMZ62PL,06-05-2024,22:35:59
+Bought Himalaya Liv.52 for liver health,Health & Wellness,JQ7YTRX51WP,09-05-2024,21:45:27
+Bought Volini spray for muscle pain,Health & Wellness,K3PLMZ82XL,11-11-2024,18:16:38
+Annual blood test at Dr. Lal PathLabs,Health & Wellness,LQ9YTRX63PL,10-08-2024,00:36:11
+Purchased Benadryl syrup for cold,Health & Wellness,M7PLMZ91TW,31-05-2024,13:02:38
+Ordered Amrutanjan pain relief balm,Health & Wellness,NQ5YTRX82LP,31-05-2024,16:01:44
+Consultation with a cardiologist,Health & Wellness,OX9PLMZ71WP,02-03-2024,22:37:56
+Monthly supply of Insulin (Novorapid),Health & Wellness,PQ7YTRX63VL,08-08-2024,15:04:15
+Purchased Combiflam for pain relief,Health & Wellness,Q3PLMZ52XL,23-08-2024,08:28:35
+Consultation with homeopathy doctor,Health & Wellness,RX9YTRX82PL,29-04-2024,02:10:59
+Bought Glucon-D energy drink,Health & Wellness,SQ5PLMZ71TW,20-12-2024,13:55:38
+Online mental health therapy session,Health & Wellness,TQ7YTRX92PL,06-04-2024,23:04:03
+Purchased Neurobion Forte for vitamins,Health & Wellness,U3PLMZ63VP,25-12-2024,08:01:19
+Bought Ecosprin 75mg for heart health,Health & Wellness,VX9YTRX81WL,29-10-2024,13:43:20
+Monthly BP checkup at Fortis Hospital,Health & Wellness,WQ5PLMZ52WP,14-08-2024,03:15:09
+Purchased Calpol 500mg for fever,Health & Wellness,XQ7YTRX71PL,03-08-2024,17:07:06
+Ayurvedic therapy at Patanjali Centre,Health & Wellness,Y3PLMZ92XL,28-02-2024,18:59:51
+Bought Revital H multivitamins,Health & Wellness,ZZ9YTRX83WP,20-10-2024,10:28:19
+Purchased Saridon for headache,Health & Wellness,A7PLMZ61TW,23-10-2024,20:47:44
+Paid for an Uber ride to office,Transportation & Travel,TX5PLMZ73WL,30-05-2024,13:50:11
+Paid for an Ola auto ride home,Transportation & Travel,UQ7YTRX91PL,19-08-2024,03:19:10
+Booked Indigo flight to Mumbai,Transportation & Travel,V9PLMZ62XT,04-08-2024,11:36:36
+Purchased Delhi Metro Card recharge,Transportation & Travel,WQ3YTRX51VP,06-05-2024,06:49:12
+Paid Chennai suburban train ticket,Transportation & Travel,X7PLMZ83WL,24-05-2024,20:10:03
+Bought FASTag recharge for car,Transportation & Travel,YQ5YTRX72PL,20-11-2024,01:55:57
+Paid for bike rental (Bounce),Transportation & Travel,Z9PLMZ61WX,20-12-2024,10:42:29
+Hired a driver for outstation travel,Transportation & Travel,A3YTRX92PL,30-08-2024,18:18:20
+Paid for Bangalore BMTC bus ticket,Transportation & Travel,B7PLMZ52TW,02-11-2024,05:04:01
+Bought petrol at Indian Oil pump,Transportation & Travel,CQ9YTRX73VP,16-04-2024,02:01:41
+Paid toll tax at NH48,Transportation & Travel,D5PLMZ62PL,24-06-2024,10:05:18
+Booked Goa vacation package,Transportation & Travel,E7YTRX51WP,26-06-2024,16:16:35
+Purchased train ticket to Jaipur (IRCTC),Transportation & Travel,F3PLMZ82XL,08-04-2024,10:58:21
+Auto fare to Bangalore airport,Transportation & Travel,GQ9YTRX63PL,22-09-2024,04:56:59
+Paid for Chennai MTC bus pass,Transportation & Travel,H7PLMZ91TW,15-06-2024,23:32:10
+Recharged Mumbai BEST bus card,Transportation & Travel,IQ5YTRX82LP,17-01-2025,10:54:28
+Paid for Hyderabad Metro ride,Transportation & Travel,JX9PLMZ71WP,21-12-2024,18:54:13
+Purchased helmet for bike safety,Transportation & Travel,KQ7YTRX63VL,12-03-2024,20:34:01
+Took a rickshaw ride in Delhi,Transportation & Travel,L3PLMZ52XL,24-11-2024,21:52:06
+Prepaid auto fare in Kochi,Transportation & Travel,MQ9YTRX82PL,19-09-2024,05:19:15
+Flight Delhi to Kolkata (Air India),Transportation & Travel,N5PLMZ71TW,29-07-2024,14:03:36
+Rented a Zoomcar for weekend trip,Transportation & Travel,OQ7YTRX92PL,19-12-2024,07:28:24
+Paid for diesel refill for SUV,Transportation & Travel,P3PLMZ63VP,05-02-2025,01:50:12
+Bought flight tickets for Diwali trip,Transportation & Travel,QQ9YTRX81WL,27-06-2024,10:10:12
+Hired a cab for corporate meeting,Transportation & Travel,RQ5PLMZ52WP,04-09-2024,07:39:31
+Paid for Kerala backwaters boat ride,Transportation & Travel,SQ7YTRX71PL,14-05-2024,15:01:49
+Took a Himalayan trek package,Transportation & Travel,T3PLMZ92XL,12-08-2024,20:45:11
+Monthly bus pass renewal,Transportation & Travel,UQ9YTRX83WP,13-11-2024,22:16:24
+Paid for Haridwar Ganga boat ride,Transportation & Travel,V7PLMZ61TW,22-04-2024,11:51:31
+Paid for an Uber ride to office,Transportation & Travel,TX5PLMZ73WL,13-07-2024,11:24:22
+Paid for an Ola auto ride home,Transportation & Travel,UQ7YTRX91PL,29-01-2025,18:59:02
+Booked Indigo flight to Mumbai,Transportation & Travel,V9PLMZ62XT,15-03-2024,05:13:43
+Purchased Delhi Metro Card recharge,Transportation & Travel,WQ3YTRX51VP,29-03-2024,01:53:14
+Paid Chennai suburban train ticket,Transportation & Travel,X7PLMZ83WL,15-05-2024,02:02:34
+Bought FASTag recharge for car,Transportation & Travel,YQ5YTRX72PL,13-06-2024,19:17:02
+Paid for bike rental (Bounce),Transportation & Travel,Z9PLMZ61WX,28-07-2024,23:47:37
+Hired a driver for outstation travel,Transportation & Travel,A3YTRX92PL,20-01-2025,04:18:27
+Paid for Bangalore BMTC bus ticket,Transportation & Travel,B7PLMZ52TW,25-09-2024,19:24:59
+Bought petrol at Indian Oil pump,Transportation & Travel,CQ9YTRX73VP,19-06-2024,12:39:29
+Paid toll tax at NH48,Transportation & Travel,D5PLMZ62PL,08-02-2025,06:41:26
+Booked Goa vacation package,Transportation & Travel,E7YTRX51WP,15-07-2024,17:03:52
+Purchased train ticket to Jaipur (IRCTC),Transportation & Travel,F3PLMZ82XL,24-01-2025,05:13:13
+Auto fare to Bangalore airport,Transportation & Travel,GQ9YTRX63PL,23-03-2024,02:27:58
+Paid for Chennai MTC bus pass,Transportation & Travel,H7PLMZ91TW,15-10-2024,22:54:30
+Recharged Mumbai BEST bus card,Transportation & Travel,IQ5YTRX82LP,07-02-2025,03:31:19
+Paid for Hyderabad Metro ride,Transportation & Travel,JX9PLMZ71WP,22-08-2024,20:41:40
+Purchased helmet for bike safety,Transportation & Travel,KQ7YTRX63VL,10-08-2024,04:58:47
+Took a rickshaw ride in Delhi,Transportation & Travel,L3PLMZ52XL,17-04-2024,16:14:13
+Prepaid auto fare in Kochi,Transportation & Travel,MQ9YTRX82PL,21-12-2024,16:51:08
+Flight Delhi to Kolkata (Air India),Transportation & Travel,N5PLMZ71TW,21-10-2024,19:01:34
+Rented a Zoomcar for weekend trip,Transportation & Travel,OQ7YTRX92PL,21-10-2024,19:02:53
+Paid for diesel refill for SUV,Transportation & Travel,P3PLMZ63VP,13-07-2024,19:39:59
+Bought flight tickets for Diwali trip,Transportation & Travel,QQ9YTRX81WL,04-01-2025,01:40:24
+Hired a cab for corporate meeting,Transportation & Travel,RQ5PLMZ52WP,16-09-2024,22:29:38
+Paid for Kerala backwaters boat ride,Transportation & Travel,SQ7YTRX71PL,02-04-2024,18:42:01
+Took a Himalayan trek package,Transportation & Travel,T3PLMZ92XL,16-02-2024,14:12:08
+Monthly bus pass renewal,Transportation & Travel,UQ9YTRX83WP,20-04-2024,09:26:15
+Paid for Haridwar Ganga boat ride,Transportation & Travel,V7PLMZ61TW,03-01-2025,00:57:38
+Booked a bike tour in Ladakh,Transportation & Travel,WX9YTRX82PL,30-04-2024,09:44:23
+Bought AC chair car ticket to Lucknow,Transportation & Travel,X5PLMZ73WP,09-07-2024,03:08:36
+Paid for ferry ride in Mumbai,Transportation & Travel,YQ7YTRX63WL,18-08-2024,13:46:48
+Pre-booked Ganga river rafting adventure,Transportation & Travel,Z3PLMZ92XL,09-09-2024,16:47:39
+Took a Shatabdi Express train to Delhi,Transportation & Travel,A9YTRX81PL,15-01-2025,21:29:35
+Paid for roadside car assistance service,Transportation & Travel,BQ5PLMZ71WP,10-02-2024,10:25:34
+Purchased flight tickets to Andaman,Transportation & Travel,CQ7YTRX92PL,01-04-2024,11:40:14
+Hired a tempo traveler for family trip,Transportation & Travel,D3PLMZ52XL,25-02-2024,00:21:55
+Paid school tuition fees,Education & Learning,TX9PLMZ83WL,21-06-2024,13:51:57
+Purchased NCERT textbooks for Class 10,Education & Learning,UQ5YTRX92PL,24-03-2024,00:13:07
+Enrolled in BYJU’S online coaching,Education & Learning,V7PLMZ61XT,08-03-2024,11:25:26
+Paid for UPSC coaching classes,Education & Learning,WQ3YTRX72VP,05-02-2025,17:48:35
+Bought engineering entrance exam form (JEE),Education & Learning,X9PLMZ71WL,14-03-2024,12:19:21
+Subscribed to Unacademy Plus,Education & Learning,YQ7YTRX83PL,29-11-2024,19:26:40
+Paid for IGNOU distance learning course,Education & Learning,Z5PLMZ63WX,02-02-2025,21:39:35
+Purchased kindergarten books for kids,Education & Learning,A3YTRX51PL,24-11-2024,13:25:41
+Paid for CUET exam registration,Education & Learning,B7PLMZ91TW,21-07-2024,19:47:52
+Bought CBSE guidebooks for Class 12,Education & Learning,CQ9YTRX72VP,02-08-2024,17:30:19
+Subscribed to Udemy online course,Education & Learning,D5PLMZ62PL,28-04-2024,18:14:52
+Paid for spoken English coaching,Education & Learning,E7YTRX82WP,29-04-2024,01:26:31
+Bought MBA entrance test books (CAT/XAT),Education & Learning,F3PLMZ91XL,26-03-2024,10:47:27
+Purchased stationery for school,Education & Learning,GQ9YTRX63PL,28-04-2024,03:26:57
+Paid for GATE exam application,Education & Learning,H7PLMZ71TW,09-01-2025,12:13:15
+Enrolled in spoken Hindi language class,Education & Learning,IQ5YTRX72LP,14-03-2024,04:59:16
+Paid for computer programming course (Python),Education & Learning,JX9PLMZ51WP,17-12-2024,23:28:59
+Purchased dictionary & thesaurus,Education & Learning,KQ7YTRX63VL,14-12-2024,04:02:52
+Subscribed to Coursera AI specialization,Education & Learning,L3PLMZ81XL,16-08-2024,00:31:57
+Paid for child’s Montessori school fee,Education & Learning,MQ9YTRX72PL,09-09-2024,13:19:09
+Registered for IIT coaching institute,Education & Learning,N5PLMZ91TW,13-04-2024,04:55:01
+Purchased law entrance exam materials (CLAT),Education & Learning,OQ7YTRX82PL,27-03-2024,23:33:27
+Bought graphing calculator for engineering,Education & Learning,P3PLMZ71VP,22-04-2024,04:11:26
+Paid for music school piano classes,Education & Learning,QQ9YTRX83WL,05-12-2024,04:39:57
+Registered for IELTS exam,Education & Learning,RQ5PLMZ51WP,20-05-2024,21:58:07
+Subscribed to Tata Sky Classroom,Education & Learning,SQ7YTRX81PL,03-03-2024,09:45:20
+Paid university semester fees,Education & Learning,T3PLMZ92XL,13-10-2024,23:58:29
+Ordered art supplies for school project,Education & Learning,UQ9YTRX72WP,28-11-2024,10:13:51
+Bought handwriting improvement books,Education & Learning,V7PLMZ71TW,22-02-2024,01:27:36
+Registered for online coding bootcamp,Education & Learning,WX9YTRX82PL,14-05-2024,05:07:02
+Paid for fine arts workshop in Delhi,Education & Learning,X5PLMZ53WP,21-05-2024,08:37:16
+Took a data science certification course,Education & Learning,YQ7YTRX62WL,02-11-2024,00:31:50
+Paid for civil services preparation books,Education & Learning,Z3PLMZ92XL,11-12-2024,20:32:54
+Bought maths tuition books for IIT JEE,Education & Learning,A9YTRX71PL,16-11-2024,06:54:50
+Paid for chemistry lab equipment,Education & Learning,BQ5PLMZ81WP,27-02-2024,15:57:44
+Purchased GRE preparation material,Education & Learning,CQ7YTRX52PL,13-05-2024,11:52:57
+Registered for stock market investing class,Education & Learning,D3PLMZ92XL,23-02-2024,22:46:45
+Paid for handwriting improvement classes,Education & Learning,E3PLMZ91WL,01-04-2024,12:20:12
+Purchased history books for UPSC preparation,Education & Learning,FQ7YTRX61PL,11-08-2024,21:19:58
+Registered for AI & ML specialization course,Education & Learning,G5PLMZ82TW,27-09-2024,03:17:24
+Bought accounting books for CA exams,Education & Learning,HQ9YTRX53WP,20-03-2024,21:37:20
+Subscribed to PhysicsWallah Plus,Education & Learning,I7PLMZ71XL,15-07-2024,01:22:53
+Purchased medical entrance exam books (NEET),Education & Learning,JX5YTRX92PL,23-08-2024,15:40:29
+Paid for ethical hacking online course,Education & Learning,KQ3PLMZ61WP,22-06-2024,17:36:42
+Bought online coding competition registration,Education & Learning,L9YTRX71PL,13-12-2024,20:25:54
+Paid for driving license theory classes,Education & Learning,MQ7PLMZ82XL,26-07-2024,15:18:54
+Purchased advanced mathematics reference books,Education & Learning,NQ5YTRX91PL,11-12-2024,00:51:25
+Enrolled in Shankar IAS Academy coaching,Education & Learning,O9PLMZ71WL,25-06-2024,20:04:04
+Bought yoga instructor training material,Education & Learning,PQ7YTRX62PL,31-03-2024,22:35:51
+Registered for foreign language (French) course,Education & Learning,QX5PLMZ81WP,10-10-2024,00:02:26
+Subscribed to Vedantu Pro for IIT prep,Education & Learning,RQ9YTRX92XL,27-10-2024,13:58:12
+Bought geography atlas for competitive exams,Education & Learning,S7PLMZ71TW,31-01-2025,12:35:05
+Registered for data analytics training,Education & Learning,TX3YTRX81PL,19-07-2024,17:42:46
+Purchased child development psychology books,Education & Learning,UQ9PLMZ92WL,05-11-2024,15:17:31
+Paid for science Olympiad registration,Education & Learning,V5YTRX61PL,23-09-2024,04:36:32
+Subscribed to Wiley Digital Learning,Education & Learning,WX9PLMZ72XL,11-06-2024,17:41:10
+Bought anatomy textbooks for MBBS studies,Education & Learning,XQ7YTRX91PL,22-10-2024,09:21:59
+Enrolled in Indian Classical Music classes,Education & Learning,Y5PLMZ71WP,18-01-2025,06:25:56
+Paid for digital marketing online workshop,Education & Learning,ZQ9YTRX82XL,27-06-2024,15:27:38
+Registered for NPTEL certification course,Education & Learning,A7PLMZ61PL,06-07-2024,18:14:45
+Purchased aviation studies material (DGCA),Education & Learning,BQ5YTRX92WL,07-10-2024,20:07:35
+Enrolled in animation & VFX training course,Education & Learning,CQ9PLMZ71WP,15-08-2024,18:33:56
+Bought statistics guide for M.Sc students,Education & Learning,D7YTRX61PL,28-12-2024,05:06:03
+Paid for GMAT exam fees,Education & Learning,EQ5PLMZ82XL,18-07-2024,10:28:41
+Subscribed to AIIMS & JIPMER exam series,Education & Learning,FQ9YTRX92PL,17-06-2024,20:32:22
+Registered for Yoga & Wellness certification,Education & Learning,G7PLMZ71TW,15-12-2024,19:39:50
+Bought electronic circuits guide for B.Tech,Education & Learning,H3YTRX61PL,13-09-2024,03:53:49
+Paid for online Abacus training,Education & Learning,I8PLMZ92XL,01-10-2024,09:29:00
+Purchased NCERT guidebooks for school,Education & Learning,JQ6YTRX71PL,05-03-2024,23:23:10
+Subscribed to Unacademy Plus for Banking,Education & Learning,K7PLMZ61WP,21-07-2024,06:46:22
+Paid for Python programming crash course,Education & Learning,LQ9YTRX82XL,06-02-2025,01:00:55
+Registered for Chartered Accountancy (CFA) exam,Education & Learning,M3PLMZ91WL,14-10-2024,13:44:40
+Purchased Shankar IAS Environment textbook,Education & Learning,NQ8YTRX72PL,07-03-2024,06:36:15
+Bought Indian Constitution law reference book,Education & Learning,O5PLMZ61TW,08-01-2025,22:34:14
+Enrolled in digital painting & design course,Education & Learning,PQ9YTRX82WP,23-02-2024,14:03:38
+Paid for robotics & automation workshop,Education & Learning,Q7PLMZ71XL,19-07-2024,09:03:14
+Purchased scientific calculator for engineering,Education & Learning,RX6YTRX91PL,02-11-2024,11:20:59
+Registered for foreign exchange trading course,Education & Learning,S9PLMZ82WL,13-09-2024,04:56:39
+Enrolled in cosmetology & beauty therapy course,Education & Learning,TQ7YTRX61PL,02-12-2024,22:04:36
+Subscribed to BYJU’S premium for JEE Advanced,Education & Learning,U5PLMZ92XL,09-12-2024,02:03:12
+Paid for archeology & ancient history course,Education & Learning,VQ9YTRX72PL,20-12-2024,22:40:11
+Bought technical writing guide for professionals,Education & Learning,W7PLMZ61WP,21-11-2024,09:24:10
+Registered for graphic design & UI/UX training,Education & Learning,XQ6YTRX91WL,10-11-2024,06:54:33
+Purchased data science & AI bootcamp package,Education & Learning,Y9PLMZ82XL,24-04-2024,14:43:51
+Enrolled in scriptwriting & filmmaking workshop,Education & Learning,ZQ7YTRX71PL,30-01-2025,10:35:54
+Paid for quantitative aptitude coaching,Education & Learning,A5PLMZ92WP,23-12-2024,07:09:38
+Paid income tax for FY 2024-25,Financial & Legal,F1PLMZ92XL,26-12-2024,00:01:02
+Renewed life insurance premium (LIC),Financial & Legal,GQ8YTRX71PL,02-04-2024,00:35:34
+Paid home loan EMI (HDFC Bank),Financial & Legal,H5PLMZ61WP,07-01-2025,13:47:05
+Transferred mutual fund SIP installment,Financial & Legal,I9YTRX82XL,11-08-2024,20:13:48
+Paid credit card bill (ICICI Bank),Financial & Legal,J7PLMZ91WL,14-06-2024,17:15:55
+Paid rental agreement stamp duty,Financial & Legal,KQ6YTRX72PL,02-04-2024,15:20:39
+Paid corporate GST for March 2025,Financial & Legal,L5PLMZ61TW,28-03-2024,13:48:31
+Purchased gold coins from Tanishq,Financial & Legal,MQ9YTRX91PL,02-06-2024,16:26:51
+Deposited fixed deposit in SBI,Financial & Legal,N7PLMZ82WL,01-11-2024,14:36:47
+Paid court fees for property dispute,Financial & Legal,OQ6YTRX61PL,24-06-2024,21:01:15
+Paid mutual fund exit load charges,Financial & Legal,P9PLMZ92XL,27-08-2024,23:05:33
+Bought sovereign gold bonds (SGB),Financial & Legal,QQ8YTRX72PL,07-05-2024,03:09:08
+Paid health insurance renewal (Star Health),Financial & Legal,R5PLMZ61WP,22-10-2024,01:06:52
+Paid TDS for contract workers,Financial & Legal,SQ9YTRX82WL,13-05-2024,01:28:16
+Transferred funds to PPF account,Financial & Legal,T7PLMZ71XL,11-08-2024,00:41:24
+Paid loan processing fee (Axis Bank),Financial & Legal,UQ6YTRX91PL,15-06-2024,01:39:52
+Deposited cheque in savings account,Financial & Legal,V9PLMZ82WL,04-05-2024,23:07:34
+Paid legal fees for property registration,Financial & Legal,WQ7YTRX61PL,03-01-2025,12:40:12
+Transferred funds to NPS account,Financial & Legal,X5PLMZ92WP,17-02-2024,15:24:41
+Paid late penalty for tax filing,Financial & Legal,YQ9YTRX72PL,09-01-2025,10:47:41
+Paid stamp duty for home purchase,Financial & Legal,Z7PLMZ61XL,30-07-2024,07:39:23
+Bought stocks via Zerodha,Financial & Legal,A5PLMZ91WL,23-08-2024,00:45:45
+Paid lawyer consultation fee,Financial & Legal,BQ9YTRX82XL,20-11-2024,13:30:39
+Paid gold loan EMI (Muthoot Finance),Financial & Legal,C7PLMZ71PL,16-04-2024,08:30:31
+Paid land registration charges,Financial & Legal,DQ6YTRX92WP,09-07-2024,15:06:05
+Paid notary fees for affidavit,Financial & Legal,E9PLMZ82WL,18-03-2024,20:34:04
+Paid traffic violation fine online,Financial & Legal,FQ7YTRX61PL,29-08-2024,08:02:38
+Bought silver bars from MMTC-PAMP,Financial & Legal,G5PLMZ92WP,07-09-2024,22:17:19
+Paid inheritance tax processing fee,Financial & Legal,HQ9YTRX72PL,02-05-2024,07:21:38
+Paid government legal translation charges,Financial & Legal,I7PLMZ61XL,25-09-2024,09:48:39
+Paid company incorporation fees (MCA),Financial & Legal,JQ6YTRX91WL,13-10-2024,05:41:08
+Paid loan foreclosure charges,Financial & Legal,K9PLMZ82XL,27-05-2024,20:25:40
+Paid professional tax for employees,Financial & Legal,LQ7YTRX71PL,29-01-2025,20:05:24
+Paid dividend tax for company shares,Financial & Legal,M5PLMZ91WP,19-11-2024,16:36:58
+Paid court fine for civil case settlement,Financial & Legal,NQ9YTRX82WL,15-07-2024,13:52:08
+Paid escrow service charges for property deal,Financial & Legal,O7PLMZ71XL,20-11-2024,20:06:34
+Paid insurance claim service charges,Financial & Legal,PQ6YTRX92WP,09-04-2024,01:47:54
+Paid ATM withdrawal charges (HDFC),Financial & Legal,Q9PLMZ82WL,16-02-2024,00:24:02
+Paid CA consultancy fees for auditing,Financial & Legal,RQ7YTRX61PL,11-09-2024,00:47:43
+Paid PAN card reissue charges,Financial & Legal,S5PLMZ92WP,26-01-2025,06:32:42
+Paid digital signature certification charges,Financial & Legal,TQ9YTRX72PL,15-04-2024,04:08:45
+Paid court summons handling charges,Financial & Legal,U7PLMZ61XL,31-08-2024,11:10:27
+Paid SEBI compliance fee for investments,Financial & Legal,VQ6YTRX91WL,29-01-2025,16:35:56
+Paid loan insurance processing fee,Financial & Legal,W9PLMZ82XL,23-02-2024,19:58:37
+Paid charges for estate succession processing,Financial & Legal,XQ7YTRX71PL,12-08-2024,23:09:08
+Paid RTGS charges for business transaction,Financial & Legal,Y5PLMZ91WL,05-08-2024,13:12:56
+Paid loan prepayment penalty (SBI),Financial & Legal,ZQ9YTRX82XL,30-03-2024,19:18:17
+Paid NSE/BSE trading brokerage fees,Financial & Legal,A7PLMZ71PL,08-01-2025,01:45:55
+Paid property tax (BBMP Bengaluru),Financial & Legal,BQ6YTRX92WP,08-07-2024,16:42:23
+Paid loan EMI bounce penalty (Axis Bank),Financial & Legal,C9PLMZ82WL,02-11-2024,02:35:44
+Paid financial consultancy fees,Financial & Legal,DQ7YTRX61PL,22-08-2024,07:50:26
+Paid annual locker fees (ICICI Bank),Financial & Legal,E5PLMZ92WP,25-03-2024,21:32:00
+Paid passport renewal fees,Financial & Legal,FQ9YTRX72PL,11-07-2024,05:06:06
+Paid e-stamping charges for agreement,Financial & Legal,G7PLMZ61XL,20-04-2024,07:55:12
+Paid court notary attestation fees,Financial & Legal,HQ6YTRX91WL,30-05-2024,10:53:27
+Paid death certificate registration fees,Financial & Legal,I9PLMZ82XL,24-12-2024,07:55:51
+Paid land mutation registration charges,Financial & Legal,JQ7YTRX71PL,09-11-2024,23:36:15
+Paid PF withdrawal processing fee,Financial & Legal,K5PLMZ92WP,06-08-2024,16:53:22
+Paid company GST return filing charges,Financial & Legal,LQ9YTRX72PL,02-03-2024,03:59:46
+Paid share depository charges (NSDL/CDSL),Financial & Legal,M7PLMZ61XL,28-09-2024,00:53:56
+Paid business name registration fee (MCA),Financial & Legal,NQ6YTRX91WL,29-11-2024,04:55:03
+Paid court settlement charges,Financial & Legal,O9PLMZ82XL,20-01-2025,00:25:38
+Paid online fastag recharge for tolls,Financial & Legal,PQ7YTRX71PL,15-10-2024,10:52:29
+Paid demat account maintenance charges,Financial & Legal,Q5PLMZ92WP,30-09-2024,06:56:10
+Paid SEBI penalty for trade violation,Financial & Legal,RQ9YTRX72PL,29-09-2024,17:08:31
+Attended wedding reception at Taj Hotel,Other,M5PLXZ91WL,25-06-2025,19:30:20
+Paid pundit for housewarming pooja,Other,NQ9YTX82XL,26-06-2025,07:15:35
+Hired photographer for birthday event,Other,O7PLYZ92WP,27-06-2025,14:45:50
+Ordered customized cake from Bakingo,Other,PQ6YTX61PL,28-06-2025,11:25:30
+Bought lottery ticket from Kerala govt.,Other,Q9PLXZ82XL,29-06-2025,17:50:55
+Booked astrology consultation online,Other,RQ7YTX71PL,30-06-2025,10:10:10
+Sponsored a child’s education via NGO,Other,S5PLYZ92WP,01-07-2025,15:35:45
+Donated to temple renovation fund,Other,TQ9YTX72PL,02-07-2025,12:40:25
+Attended art exhibition in Mumbai,Other,U7PLXZ61XL,03-07-2025,18:20:30
+Paid clubhouse membership renewal fee,Other,VQ6YTX91WL,04-07-2025,09:15:40
+Bought exotic plants from nursery,Other,W9PLYZ82XL,05-07-2025,13:55:50
+Bought festive decorations for Diwali,Other,XQ7YTX71PL,06-07-2025,16:05:15
+Purchased antique coins from collector,Other,Y5PLXZ92WP,07-07-2025,11:30:25
+Paid professional resume writing service,Other,ZQ9YTX72PL,08-07-2025,14:25:50
+Bought tickets for IPL final match,Other,A7PLXZ61XL,09-07-2025,20:10:30
+Hired personal stylist for makeover,Other,BQ6YTX91WL,10-07-2025,10:50:35
+Paid visa application processing fee,Other,C9PLYZ82XL,11-07-2025,13:20:10
+Bought luxury perfume from Chanel,Other,DQ7YTX71PL,12-07-2025,17:40:20
+Paid legal consultant for will drafting,Other,E5PLXZ92WP,13-07-2025,15:25:55
+Ordered handmade pottery from Rajasthan,Other,FQ9YTX72PL,14-07-2025,12:55:50
+Bought wedding sherwani from Manyavar,Other,G5PLXZ61WL,15-07-2025,10:20:30
+Bought Banarasi saree from Varanasi,Other,HQ9YTX82XL,16-07-2025,14:10:45
+Purchased Jodhpuri shoes from Rajasthan,Other,I7PLYZ92WP,17-07-2025,16:25:55
+Bought silver anklets from a jeweler,Other,JQ6YTX61PL,18-07-2025,11:55:40
+Bought Chikankari kurta from Lucknow,Other,K9PLXZ82XL,19-07-2025,18:30:15
+Purchased Kolhapuri chappals,Other,LQ7YTX71PL,20-07-2025,12:45:20
+Bought Handmade terracotta jewelry,Other,NQ9YTX72PL,22-07-2025,17:35:10
+Purchased Khadi cotton shirts,Other,O7PLXZ61XL,23-07-2025,10:55:25
+Bought Brass idols for home temple,Other,PQ6YTX91WL,24-07-2025,13:15:40
+Purchased Hand-painted Madhubani artwork,Other,Q9PLYZ82XL,25-07-2025,19:20:35
+Bought Dhokra tribal metal craft,Other,RQ7YTX71PL,26-07-2025,11:40:50
+Bought Spices from Kerala spice market,Other,S5PLXZ92WP,27-07-2025,16:10:55
+Bought Custom-tailored suit from Raymond’s,Other,W9PLYZ82XL,31-07-2025,13:05:50
+Ordered Personalized wooden nameplate,Other,XQ7YTX71PL,01-08-2025,17:50:10
+Bought Pashmina shawl from Kashmir,Other,Y5PLXZ92WP,02-08-2025,12:20:25
+Purchased Sand art bottle from Puri,Other,ZQ9YTX72PL,03-08-2025,14:45:55
+phone,Other,DAMN123456,04-08-2025,14:45:55
+jeans,Other,JEANS1234X,05-08-2025,12:20:25
+pants,Other,P1A2TS484H,18-08-2025,17:50:10
+belt,Other,YAHI123855,19-08-2025,16:25:55
+"Shoes(Nike,Puma,Adidas,reebok,asics,under armour)",Other,NAHI123855,20-08-2025,19:30:20
